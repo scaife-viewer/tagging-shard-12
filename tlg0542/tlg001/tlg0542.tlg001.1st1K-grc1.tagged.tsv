@@ -1,0 +1,149 @@
+2.157	0	1.	PUNCT	Z		1.	ROOT	0
+2.157	1	E	ADV	Df		E	advmod	2
+2.157	2	Iulii	ADV	Df		Iulii	ROOT	2
+2.157	3	Pollucis	ADV	Df		Pollucis	advmod	2
+2.157	4	onomastico	ADV	V-		onomastico	conj	2
+2.157	5	(	PUNCT	Df	Polarity=Neg	(	punct	2
+2.157	6	2.	PUNCT	Z		2.	punct	2
+2.157	7	157.	PUNCT	Z		157.	punct	2
+2.157	8	158).	ADV	Df		158).	punct	2
+2.157	9	(	PUNCT	Df		(	ROOT	9
+2.157	10	Vide	ADV	Nb		Vide	ROOT	10
+2.157	11	prol.	PUNCT	Z		prol.	punct	10
+2.157	12	§	NOUN	Nb		§	ROOT	12
+2.157	13	2.	PUNCT	Z		2.	punct	12
+2.157	14	)	CCONJ	Z		)	ROOT	14
+2.157	15	Τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	17
+2.157	16	δὲ	ADV	Df		δέ	discourse	18
+2.157	17	μέτρων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	μέτρον	nmod	18
+2.157	18	ἔϲτι	NOUN	Nb		ἔϲτι	nmod	14
+2.157	19	μέν	ADV	Df		μέν	discourse	18
+2.157	20	τι	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	τίς	det	18
+2.157	21	καὶ	CCONJ	C-		καί	cc	18
+2.157	22	δάκτυλοϲ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	δάκτυλοϲ	conj	17
+2.157	23	·	PUNCT	Z		·	ROOT	23
+2.157	24	δοχμὴ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	δοχμός	ROOT	24
+2.157	25	157	ADV	Df		157	dep	24
+2.157	26	δὲ	ADV	Df		δέ	discourse	24
+2.157	27	ϲυγκλειϲθέντεϲ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	ϲυγκλειϲθέντεϲ	vocative	24
+2.157	28	οἱ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	30
+2.157	29	τέτταρεϲ	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	τέτταρεϲ	nummod	30
+2.157	30	δάκτυλοι	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	δάκτυλος	conj	24
+2.157	31	,	PUNCT	Z		,	punct	24
+2.157	32	καὶ	CCONJ	C-		καί	ROOT	32
+2.157	33	δακτυλοδόχμη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	δακτυλοδόχμη	nsubj	32
+2.157	34	.	PUNCT	Z		.	ROOT	34
+2.157	35	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	36
+2.157	36	δ᾿	ADV	Df		δ	discourse	39
+2.157	37	αὐτὸ	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	αὐτός	dep	36
+2.157	38	καὶ	CCONJ	C-		καί	cc	39
+2.157	39	παλαιϲτὴ	ADV	Ne		παλαιϲτὴ	ROOT	39
+2.157	40	θηλυκῶϲ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	θηλυκῶϲ	amod	39
+2.157	41	καὶ	CCONJ	C-		καί	cc	39
+2.157	42	παλαιϲτὴϲ	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	παλαιϲτὴϲ	conj	39
+2.157	43	ἀρρενικῶϲ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	ἀρρενικῶϲ	conj	39
+2.157	44	,	PUNCT	Z		,	punct	39
+2.157	45	καὶ	CCONJ	C-		καί	cc	46
+2.157	46	δῶρον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	δῶρον	ROOT	46
+2.157	47	,	PUNCT	Z		,	punct	46
+2.157	48	καὶ	CCONJ	C-		καί	cc	49
+2.157	49	ἑκκαιδεκάδωρα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	ἑκκαιδεκάδωρος	ROOT	49
+2.157	50	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	51
+2.157	51	ἑκκαιδεκαπάλαιϲτα	ADJ	Nb	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἑκκαιδεκαπάλαιϲτα	appos	49
+2.157	52	.	PUNCT	Z		.	punct	49
+2.157	53	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	60
+2.157	54	δὲ	ADV	Df		δέ	discourse	60
+2.157	55	ἀπὸ	ADP	R-		ἀπό	case	56
+2.157	56	καρποῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	καρπός	obl	54
+2.157	57	ἕωϲ	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	ἕωϲ	appos	56
+2.157	58	ἄκρων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	ἄκρον	appos	56
+2.157	59	δακτύλων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	δάκτυλος	nmod	58
+2.157	60	,	PUNCT	Z		,	orphan	63
+2.157	61	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	63
+2.157	62	πᾶϲα	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	πᾶϲα	nmod	63
+2.157	63	χείρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	χείρ	ROOT	63
+2.157	64	,	PUNCT	Z		,	ROOT	64
+2.157	65	ὀρθόδωρον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ὀρθόδωρος	ROOT	65
+2.157	66	.	PUNCT	Z		.	punct	65
+2.157	67	εἰ	SCONJ	G-		εἰ	mark	78
+2.157	68	δὲ	ADV	Df		δέ	discourse	78
+2.157	69	τοὺϲ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	τοὺϲ	nsubj	78
+2.157	70	δακτύλουϲ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	δακτύλουϲ	appos	69
+2.157	71	ἀποτείναϲ	NOUN	V-	Case=Voc|Gender=Neut|Number=Plur	ἀποτείναϲ	appos	69
+2.157	72	ἀπὸ	ADP	R-		ἀπό	case	74
+2.157	73	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	74
+2.157	74	μεγάλου	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	μέγας	dep	75
+2.157	75	πρὸϲ	ADV	R-		πρὸϲ	appos	69
+2.157	76	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	77
+2.157	77	μικρότατον	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc|Number=Sing	μικρός	obj	78
+2.157	78	μετροῖϲ	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μετροῖϲ	ROOT	78
+2.157	79	,	PUNCT	Z		,	punct	78
+2.157	80	ϲπιθαμὴ	X	F-		ϲπιθαμὴν	ROOT	80
+2.157	81	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	82
+2.157	82	μέτρον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	μέτρον	nsubj	80
+2.157	83	·	PUNCT	Z		·	ROOT	83
+2.158	0	εἰ	SCONJ	G-		εἰ	mark	4
+2.158	1	δὲ	ADV	Df		δέ	discourse	8
+2.158	2	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	5
+2.158	3	μέγαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	μέγας	amod	5
+2.158	4	158	ADV	V-		158	advcl	8
+2.158	5	δάκτυλον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	δάκτυλος	obj	4
+2.158	6	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	7
+2.158	7	λιχανῷ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	λιχανός	dep	4
+2.158	8	ἀντιτείναϲ	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀντιτείναϲ	ROOT	8
+2.158	9	,	PUNCT	Z		,	punct	8
+2.158	10	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	11
+2.158	11	μέτρον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	μέτρον	nsubj	12
+2.158	12	λιχάϲ	X	Ne		λιχάϲ	ROOT	12
+2.158	13	.	PUNCT	Z		.	punct	12
+2.158	14	ἀπὸ	ADP	R-		ἀπό	case	16
+2.158	15	δὲ	ADV	Df		δέ	discourse	25
+2.158	16	ὠλεκράνου	PROPN	Nb	Case=Gen|Gender=Masc|Number=Sing	ὠλεκράνον	obl	15
+2.158	17	πρὸϲ	ADP	R-		πρὸϲ	case	20
+2.158	18	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	20
+2.158	19	μέϲον	PRON	Ne	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	μέϲον	nmod	20
+2.158	20	δάκτυλον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	δάκτυλος	obl	15
+2.158	21	ἄκρον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἄκρον	appos	20
+2.158	22	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	23
+2.158	23	διάϲτημα	ADP	Nb		διάϲτημα	nmod	24
+2.158	24	πῆχυϲ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	πῆχυϲ	appos	20
+2.158	25	.	PUNCT	Z		.	ROOT	25
+2.158	26	εἰ	SCONJ	G-		εἰ	mark	28
+2.158	27	δὲ	ADV	Df		δέ	discourse	28
+2.158	28	ϲυγκάμψειαϲ	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ϲυγκάμψειαϲ	advcl	31
+2.158	29	τοὺϲ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	τοὺϲ	det	30
+2.158	30	δακτύλουϲ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	δακτύλουϲ	appos	28
+2.158	31	,	PUNCT	Z		,	ROOT	31
+2.158	32	ἀπ᾿	ADP	R-		ἀπ᾿	case	33
+2.158	33	ἀγκῶνοϲ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἀγκῶνοϲ	obl	36
+2.158	34	ἐπ᾿	ADP	R-		ἐπ᾿	case	35
+2.158	35	αὐτοὺϲ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτοὺϲ	obl	36
+2.158	36	πυγὼν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	πεύγω	ROOT	36
+2.158	37	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	38
+2.158	38	μέτρον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	μέτρον	nsubj	36
+2.158	39	,	PUNCT	Z		,	ROOT	39
+2.158	40	εἰ	SCONJ	G-		εἰ	dep	42
+2.158	41	δὲ	ADV	Df		δέ	discourse	42
+2.158	42	ϲυγκλείϲειαϲ	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	ϲυγκλείϲειαϲ	conj	39
+2.158	43	,	PUNCT	Z		,	nmod	44
+2.158	44	πυγμή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	πυγμή	conj	39
+2.158	45	.	PUNCT	Z		.	punct	39
+2.158	46	εἰ	SCONJ	G-		εἰ	mark	51
+2.158	47	δ᾿	ADV	Df		δ	discourse	51
+2.158	48	ἄμφω	DET	Px	Case=Nom|Gender=Neut|Number=Plur	ἄμφω	det	49
+2.158	49	τὰϲ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	τὰϲ	nsubj	51
+2.158	50	χεῖραϲ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	χεῖραϲ	obj	51
+2.158	51	ἐκτείνειαϲ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐκτείνειαϲ	ROOT	51
+2.158	52	,	PUNCT	Z		,	punct	51
+2.158	53	ὡϲ	INTJ	I-		ὡϲ	ROOT	53
+2.158	54	καὶ	CCONJ	C-		καί	cc	53
+2.158	55	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	56
+2.158	56	ϲτέρνον	NOUN	A-	Case=Nom|Gender=Neut|Number=Sing	ϲτέρνον	nsubj	58
+2.158	57	αὐταῖϲ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Plur	αὐταῖϲ	dep	58
+2.158	58	ϲυμμετρεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ϲυμμετρέω	conj	53
+2.158	59	,	PUNCT	Z		,	det	63
+2.158	60	ὀργυιὰ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ὀργυιὰ	xcomp	61
+2.158	61	καλεῖται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	καλέω	ROOT	61
+2.158	62	τὸ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	63
+2.158	63	μέτρον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	μέτρον	nsubj:pass	61
+2.158	64	.	PUNCT	Z		.	punct	61

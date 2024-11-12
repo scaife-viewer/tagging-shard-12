@@ -1,0 +1,3447 @@
+1	0	1	NUM	number		1	ROOT	0
+1	1	.	PUNCT	punc		.	punct	0
+1	2	Si	SCONJ	conjunction		si	mark	5
+1	3	mutuo	ADV	adverb		mutuus	advmod	5
+1	4	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	5
+1	5	tangant	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	tango	advcl	48
+1	6	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	7
+1	7	circuli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	circulus	nsubj	5
+1	8	,	PUNCT	punc		,	punct	11
+1	9	ut	SCONJ	adverb		ut	mark	11
+1	10	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	11
+1	11	circuli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	circulus	advcl:cmp	5
+1	12	AEB	NOUN	adverb		AEB	amod	11
+1	13	,	PUNCT	punc		,	punct	14
+1	14	CED	NOUN	verb		CED	conj	5
+1	15	in	ADP	preposition		in	case	16
+1	16	E	NOUN	number		E	obl	14
+1	17	,	PUNCT	punc		,	punct	21
+1	18	fuerint	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin	sum	nmod	21
+1	19	que	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin	que	nmod	21
+1	20	eorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur|Person=3	is	nmod	21
+1	21	diametri	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	diametrus	conj	5
+1	22	parallelae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	parallelus	amod	21
+1	23	,	PUNCT	punc		,	punct	27
+1	24	ut	SCONJ	conjunction		ut	mark	27
+1	25	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	27
+1	26	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	27
+1	27	diametri	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	diametrus	advcl:cmp	5
+1	28	AB	NOUN	preposition		AB	nmod	27
+1	29	,	PUNCT	punc		,	punct	30
+1	30	CD	NOUN	adverb		CD	conj	28
+1	31	,	PUNCT	punc		,	punct	33
+1	32	et	CCONJ	conjunction		et	cc	33
+1	33	iungantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	iungo	conj	27
+1	34	duo	NUM	number	Case=Nom|Gender=Neut|Number=Plur	duo	nummod	35
+1	35	puncta	NOUN	noun	Case=Nom|Gender=Neut|Number=Plur	pungo	nsubj:pass	33
+1	36	B	NOUN	NOUN		Bornellum	nsubj:pass	33
+1	37	,	PUNCT	punc		,	punct	38
+1	38	D	NOUN	NOUN		Decimus	conj	33
+1	39	et	CCONJ	conjunction		et	cc	40
+1	40	contactus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	contactus	conj	33
+1	41	E	NOUN	NOUN		E	advmod	33
+1	42	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	advcl	41
+1	43	DE	NOUN	preposition		DE	case	45
+1	44	,	PUNCT	punc		,	punct	45
+1	45	BD	NOUN	adverb		BD	conj	33
+1	46	,	PUNCT	punc		,	punct	5
+1	47	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	48
+1	48	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	ROOT	48
+1	49	BE	NOUN	adverb		BE	acl	48
+1	50	recta	ADJ	verb	Case=Nom|Gender=Fem|Number=Sing	rego	amod	48
+1	51	.	PUNCT	punc		.	punct	48
+1	52	Sint	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	ROOT	52
+1	53	duo	NUM	number	Case=Nom|Gender=Neut|Number=Plur	duo	nummod	54
+1	54	centra	NOUN	noun	Case=Nom|Gender=Neut|Number=Plur	centrum	nsubj	52
+1	55	G	NOUN	NOUN		Gherardesca	nummod	54
+1	56	,	PUNCT	punc		,	punct	57
+1	57	F	NOUN	NOUN		f	conj	55
+1	58	,	PUNCT	punc		,	punct	60
+1	59	et	CCONJ	conjunction		et	cc	60
+1	60	iungatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	iungo	conj	52
+1	61	GF	NOUN	adverb		GF	nsubj:pass	60
+1	62	,	PUNCT	punc		,	punct	64
+1	63	et	CCONJ	conjunction		et	cc	64
+1	64	producam	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	produco	conj	52
+1	65	ad	ADP	preposition		ad	case	66
+1	66	E	NOUN	NOUN		E	obl:arg	64
+1	67	,	PUNCT	punc		,	punct	69
+1	68	et	CCONJ	conjunction		et	cc	69
+1	69	educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	conj	52
+1	70	DH	NOUN	pronoun		DH	obj	69
+1	71	parallelam	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	parallelus	amod	70
+1	72	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	73
+1	73	GF	NOUN	adverb		GF	obl:arg	69
+1	74	.	PUNCT	punc		.	punct	52
+1	75	Et	CCONJ	conjunction		et	cc	97
+1	76	quia	SCONJ	conjunction		quia	mark	78
+1	77	HF	NOUN	punc		HF	nsubj	78
+1	78	aequali	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	advcl	97
+1	79	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	78
+1	80	ipsi	DET	determiner	Case=Dat|Gender=Neut|Number=Sing	ipse	det	81
+1	81	GD	NOUN	adjective		GD	nsubj	78
+1	82	,	PUNCT	punc		,	punct	85
+1	83	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	85
+1	84	que	ADV	conjunction		que	cc	85
+1	85	GD	NOUN	adjective		GD	conj	78
+1	86	,	PUNCT	punc		,	punct	87
+1	87	EG	NOUN	pronoun		EG	nsubj	88
+1	88	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	conj	78
+1	89	,	PUNCT	punc		,	punct	94
+1	90	ergo	ADV	adverb		ergo	advmod	94
+1	91	ex	ADP	preposition		ex	case	92
+1	92	aequa	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	aequus	nmod	94
+1	93	ibus	NOUN	proper_noun		ibu	nmod	94
+1	94	FB	NOUN	adverb		FB	conj	88
+1	95	,	PUNCT	punc		,	punct	78
+1	96	FE	NOUN	noun		FE	obl	97
+1	97	remanebunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	remaneo	ROOT	97
+1	98	GF	NOUN	adverb		GF	nsubj	97
+1	99	,	PUNCT	punc		,	punct	100
+1	100	nempe	PART	adverb		nempe	advmod:emph	101
+1	101	DH	NOUN	adverb		DaH	conj	97
+1	102	et	CCONJ	conjunction		et	cc	103
+1	103	HB	NOUN	adverb		HB	conj	101
+1	104	,	PUNCT	punc		,	punct	107
+1	105	quae	PRON	pronoun	Case=Nom|Gender=Neut|Number=Plur	qui	nsubj	107
+1	106	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	107
+1	107	aequal	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequal	acl:relcl	101
+1	108	es	AUX	verb	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	sum	cop	107
+1	109	,	PUNCT	punc		,	punct	116
+1	110	atque	CCONJ	conjunction		atque	cc	116
+1	111	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	112
+1	112	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	116
+1	113	HDB	NOUN	adverb		HDB	appos	112
+1	114	,	PUNCT	punc		,	punct	115
+1	115	HBD	NOUN	adverb		HBD	conj	112
+1	116	aequa	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequus	conj	97
+1	117	es	AUX	verb	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	sum	cop	116
+1	118	.	PUNCT	punc		.	punct	97
+1	119	Et	CCONJ	conjunction		et	ROOT	119
+1	120	quia	SCONJ	conjunction		quia	mark	122
+1	121	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	122
+1	122	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	case	119
+1	123	EGD	NOUN	pronoun		EGD	appos	122
+1	124	.	PUNCT	punc		.	punct	123
+1	125	EFB	NOUN	adverb		eFB	obl	127
+1	126	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	127
+1	127	recti	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	ROOT	127
+1	128	,	PUNCT	punc		,	punct	138
+1	129	atque	CCONJ	conjunction		atque	cc	138
+1	130	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	131
+1	131	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	138
+1	132	EGD	NOUN	noun		EGD	appos	131
+1	133	,	PUNCT	punc		,	punct	136
+1	134	DHB	NOUN	adverb		DHB	nsubj	136
+1	135	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	136
+1	136	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	appos	131
+1	137	,	PUNCT	punc		,	punct	131
+1	138	remanebunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	remaneo	conj	127
+1	139	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	140
+1	140	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	138
+1	141	GEU	NOUN	noun		GEUs	nmod	140
+1	142	,	PUNCT	punc		,	punct	143
+1	143	GDE	X	noun		GDE	dep	138
+1	144	,	PUNCT	punc		,	punct	145
+1	145	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	154
+1	146	inter	ADP	preposition		inter	case	147
+1	147	se	PRON	pronoun	Case=Acc|Person=3	sui	obl	154
+1	148	et	CCONJ	conjunction		et	cc	150
+1	149	duobus	NUM	number	Case=Abl|Gender=Masc|Number=Plur	duo	nummod	150
+1	150	angulis	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	angulus	conj	147
+1	151	HDB	NOUN	adverb		HDB	conj	147
+1	152	,	PUNCT	punc		,	punct	153
+1	153	HBD	NOUN	adverb		HBD	conj	151
+1	154	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	acl:relcl	141
+1	155	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	154
+1	156	;	PUNCT	punc		;	punct	127
+1	157	ergo	ADV	conjunction		ergo	advmod	160
+1	158	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	160
+1	159	EDG	NOUN	proper_noun		EDG	nmod	158
+1	160	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	160
+1	161	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	160
+1	162	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	160
+1	163	DBF	NOUN	adverb		DBF	nummod	162
+1	164	Et	CCONJ	conjunction		Et	cc	169
+1	165	comprehensus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	comprehendo	advcl	169
+1	166	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	169
+1	167	GDB	NOUN	proper_noun		GDB	flat	166
+1	168	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	169
+1	169	communis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	communis	conj	160
+1	170	;	PUNCT	punc		;	punct	160
+1	171	ergo	ADV	conjunction		ergo	advmod	175
+1	172	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	175
+1	173	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	174
+1	174	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	175
+1	175	GDB	NOUN	proper_noun		GDB	ROOT	175
+1	176	,	PUNCT	punc		,	punct	177
+1	177	FBD	NOUN	adverb		FBD	conj	175
+1	178	,	PUNCT	punc		,	punct	182
+1	179	(	PUNCT	punc		(	punct	182
+1	180	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	182
+1	181	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	182
+1	182	pares	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	par	conj	175
+1	183	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	184
+1	184	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	182
+1	185	)	PUNCT	punc		)	punct	182
+1	186	,	PUNCT	punc		,	punct	187
+1	187	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	175
+1	188	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	189
+1	189	angulis	NOUN	noun	Case=Dat|Gender=Masc|Number=Plur	angulus	nmod	187
+1	190	GDB	NOUN	proper_noun		GDB	appos	189
+1	191	,	PUNCT	punc		,	punct	192
+1	192	GDE	X	proper_noun		GDE	conj	187
+1	193	.	PUNCT	punc		.	punct	175
+1	194	Igitur	PART	particle		igitur	discourse	198
+1	195	ipsi	DET	determiner	Case=Nom|Gender=Masc|Number=Plur	ipse	nsubj	198
+1	196	quoque	ADV	adverb		quoque	dep	198
+1	197	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	198
+1	198	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	198
+1	199	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nmod	198
+1	200	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	199
+1	201	;	PUNCT	punc		;	punct	198
+1	202	ergo	ADV	conjunction		ergo	advmod	206
+1	203	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj	206
+1	204	EDB	NOUN	adverb		EDB	nmod	203
+1	205	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	206
+1	206	recta	ADJ	verb	Case=Nom|Gender=Fem|Number=Sing	rego	ROOT	206
+1	207	.	PUNCT	punc		.	punct	206
+1	208	Et	CCONJ	conjunction		et	cc	212
+1	209	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	212
+1	210	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	212
+1	211	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	212
+1	212	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	nolo	ROOT	212
+1	213	.	PUNCT	punc		.	punct	212
+2	0	2	NUM	number		2	ROOT	0
+2	1	.	PUNCT	punc		.	punct	0
+2	2	Sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	4
+2	3	CBA	NOUN	noun		CBA	nsubj	4
+2	4	semicirculus	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	ROOT	4
+2	5	,	PUNCT	punc		,	punct	10
+2	6	quem	PRON	pronoun	Case=Acc|Gender=Masc|Number=Sing	qui	obj	10
+2	7	DC	NOUN	adverb		DC	nmod	6
+2	8	,	PUNCT	punc		,	punct	9
+2	9	DB	NOUN	adverb		DB	conj	7
+2	10	tangant	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	tango	acl:relcl	4
+2	11	,	PUNCT	punc		,	punct	14
+2	12	et	CCONJ	conjunction		et	cc	14
+2	13	BE	NOUN	adverb		BE	orphan	14
+2	14	perpendicularis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	perpendicularis	conj	10
+2	15	super	ADP	preposition		super	case	16
+2	16	AC	NOUN	pronoun		AC	obl	14
+2	17	,	PUNCT	punc		,	punct	19
+2	18	et	CCONJ	conjunction		et	cc	19
+2	19	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	conj	4
+2	20	AD	NOUN	ADP		AD	advmod	19
+2	21	;	PUNCT	punc		;	punct	4
+2	22	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	erit	cop	24
+2	23	BF	NOUN	adverb		BF	nsubj	24
+2	24	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	24
+2	25	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	26
+2	26	FE	NOUN	noun		FaE	nmod	24
+2	27	.	PUNCT	punc		.	punct	24
+2	28	Demonstratio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	demonstratio	ROOT	28
+2	29	.	PUNCT	punc		.	punct	28
+2	30	lungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	lungamus	ROOT	30
+2	31	AB	ADP	ADP		AB	case	32
+2	32	eam	DET	pronoun	Case=Abl|Gender=Fem|Number=Sing	is	obl	30
+2	33	que	DET	adjective	Case=Abl|Gender=Fem|Number=Sing	que	obl	30
+2	34	producamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	produco	conj	30
+2	35	us	NOUN	pronoun	Case=Acc|Gender=Fem|Number=Plur	us	obj	34
+2	36	in	ADP	ADP		in	case	37
+2	37	directum	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	directus	obl	34
+2	38	et	CCONJ	conjunction		et	cc	39
+2	39	educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	conj	30
+2	40	CD	NOUN	number		CD	obj	39
+2	41	quousque	SCONJ	conjunction		quousque	mark	43
+2	42	illi	DET	adjective	Case=Dat|Gender=Masc|Number=Sing	ille	obl:arg	43
+2	43	occurrat	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	occurro	advcl	39
+2	44	in	ADP	ADP		in	case	45
+2	45	G	NOUN	NOUN		Gherardesca	obl	43
+2	46	,	PUNCT	punc		,	punct	48
+2	47	et	CCONJ	conjunction		et	cc	48
+2	48	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	conj	30
+2	49	CB	NOUN	noun		CB	obj	48
+2	50	.	PUNCT	punc		.	punct	30
+2	51	Et	CCONJ	conjunction		et	cc	60
+2	52	quia	SCONJ	conjunction		quia	mark	57
+2	53	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	54
+2	54	CBA	NOUN	noun		CBA	nsubj	57
+2	55	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	57
+2	56	in	ADP	preposition		in	case	57
+2	57	semicirculo	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	semicirculus	advcl	60
+2	58	,	PUNCT	punc		,	punct	57
+2	59	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	60
+2	60	rectus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	rego	ROOT	60
+2	61	;	PUNCT	punc		;	punct	60
+2	62	remanet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	62
+2	63	CBG	NOUN	noun		CBG	nsubj	62
+2	64	rectus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	rego	xcomp	62
+2	65	,	PUNCT	punc		,	punct	69
+2	66	et	CCONJ	conjunction		et	cc	69
+2	67	DBEC	NOUN	adverb		DBEC	nsubj	69
+2	68	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	69
+2	69	parallelogrammum	ADJ	noun	Case=Nom|Gender=Neut|Number=Sing	parallelogrammum	conj	62
+2	70	rectangulum	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	rectangulus	amod	69
+2	71	.	PUNCT	punc		.	punct	62
+2	72	Ergo	ADV	adverb		ergo	advmod	77
+2	73	in	ADP	preposition		in	case	74
+2	74	triangulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	triangulus	obl	77
+2	75	GBC	NOUN	adverb		GBC	nmod	74
+2	76	rectangulo	ADJ	adjective	Case=Abl|Gender=Masc|Number=Sing	rectangulus	amod	75
+2	77	educitur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	educo	ROOT	77
+2	78	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	amod	79
+2	79	BD	NOUN	noun		BD	nsubj:pass	77
+2	80	ex	ADP	ADP		ex	case	81
+2	81	B	NOUN	NOUN		Bornellum	obl	77
+2	82	erecta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	erigo	acl	81
+2	83	super	ADP	ADP		super	case	84
+2	84	basim	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	basis	obl	82
+2	85	,	PUNCT	punc		,	punct	91
+2	86	et	CCONJ	conjunction		et	cc	91
+2	87	BD	NOUN	noun		BD	nsubj	91
+2	88	,	PUNCT	punc		,	punct	89
+2	89	DC	NOUN	number		DC	conj	87
+2	90	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	91
+2	91	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	77
+2	92	eo	PRON	pronoun	Case=Abl|Gender=Neut|Number=Sing|Person=3	is	obl	91
+2	93	quod	SCONJ	conjunction		quod	mark	94
+2	94	tangunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	tango	acl	92
+2	95	circulum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	circulus	obj	94
+2	96	;	PUNCT	punc		;	punct	77
+2	97	ergo	ADV	conjunction		ergo	advmod	101
+2	98	CD	NOUN	number		CD	nsubj	101
+2	99	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	101
+2	100	etiam	ADV	adverb		etiam	advmod:emph	101
+2	101	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	101
+2	102	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	103
+2	103	DG	NOUN	proper_noun		DG	nmod	101
+2	104	,	PUNCT	punc		,	punct	106
+2	105	quemadmodum	SCONJ	adverb		quemadmodum	mark	106
+2	106	ostendimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	ostendo	advcl:cmp	101
+2	107	in	ADP	ADP		in	case	108
+2	108	propositionibus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	propositio	obl	106
+2	109	,	PUNCT	punc		,	punct	111
+2	110	quas	PRON	pronoun	Case=Acc|Gender=Fem|Number=Plur	qui	obj	111
+2	111	confecimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	conficio	acl:relcl	108
+2	112	de	ADP	ADP		de	case	113
+2	113	rectangulis	ADJ	noun	Case=Abl|Gender=Neut|Number=Plur	rectangulus	obl	111
+2	114	.	PUNCT	punc		.	punct	101
+2	115	Et	CCONJ	conjunction		et	cc	145
+2	116	quia	SCONJ	conjunction		quia	mark	122
+2	117	in	ADP	ADP		in	case	118
+2	118	triangulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	triangulus	obl	122
+2	119	GAC	NOUN	adverb		GAC	nmod	118
+2	120	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj:pass	122
+2	121	BE	NOUN	pronoun		BE	nmod	120
+2	122	educta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	educo	advcl	145
+2	123	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	122
+2	124	parall	ADV	adjective		parall	case	126
+2	125	ela	ADP	adjective		ela	det	126
+2	126	basi	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	basis	obl	122
+2	127	,	PUNCT	punc		,	punct	130
+2	128	et	CCONJ	conjunction		et	cc	130
+2	129	iam	ADV	adverb		iam	advmod:emph	130
+2	130	educta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	educo	conj	122
+2	131	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	130
+2	132	ex	ADP	ADP		ex	case	133
+2	133	D	NOUN	NOUN		Decimus	obl	130
+2	134	semipartitione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	semipartitio	obl	130
+2	135	basis	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	basis	nmod	134
+2	136	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj:pass	130
+2	137	DA	ADP	verb		DA	nmod	136
+2	138	secans	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	seco	acl	136
+2	139	parallelam	VERB	adjective	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	parallelus	acl	136
+2	140	in	ADP	ADP		in	case	141
+2	141	F	NOUN	NOUN		f	obl:arg	139
+2	142	,	PUNCT	punc		,	punct	122
+2	143	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	145
+2	144	BF	NOUN	proper_noun		BF	nsubj	145
+2	145	aequalis	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	ROOT	145
+2	146	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	147
+2	147	FE	NOUN	noun		FE	nmod	145
+2	148	.	PUNCT	punc		.	punct	145
+2	149	Et	CCONJ	conjunction		et	cc	153
+2	150	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	153
+2	151	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	153
+2	152	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	153
+2	153	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	nolo	ROOT	153
+2	154	.	PUNCT	punc		.	punct	153
+3	0	3	NUM	number		3	ROOT	0
+3	1	.	PUNCT	punc		.	punct	0
+3	2	Sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	8
+3	3	CA	NOUN	pronoun		CA	advmod	8
+3	4	segmentum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	segmentum	obj	3
+3	5	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	4
+3	6	et	CCONJ	conjunction		et	cc	7
+3	7	B	NOUN	NOUN		Bornellum	conj	3
+3	8	punctum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	punctum	ROOT	8
+3	9	super	ADP	preposition		super	case	10
+3	10	illud	DET	adjective	Case=Acc|Gender=Neut|Number=Sing	ille	obl	8
+3	11	ubicun	ADV	adverb		ubicun	advmod:lmod	10
+3	12	que	ADV	adverb		que	advmod:lmod	10
+3	13	et	CCONJ	conjunction		et	cc	15
+3	14	BD	NOUN	proper_noun		BD	orphan	15
+3	15	perpendicularis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	perpendicularis	conj	10
+3	16	super	ADP	preposition		super	case	17
+3	17	AC	NOUN	pronoun		AC	orphan	15
+3	18	et	CCONJ	conjunction		et	cc	19
+3	19	segmentum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	segmentum	conj	15
+3	20	DE	ADP	preposition		DE	case	21
+3	21	aequale	ADJ	adjective	Case=Abl|Gender=Neut|Number=Sing	aequalis	amod	22
+3	22	DA	NOUN	verb		DA	nmod	19
+3	23	et	CCONJ	conjunction		et	cc	24
+3	24	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	conj	15
+3	25	BF	NOUN	proper_noun		BF	nummod	24
+3	26	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	8
+3	27	arcui	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	arceo	nmod	26
+3	28	BA	NOUN	pronoun		BAus	nummod	27
+3	29	;	PUNCT	punc		;	punct	8
+3	30	utique	ADV	adverb		utique	advmod	34
+3	31	iuncta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	iunctus	acl	32
+3	32	CF	NOUN	adverb	Case=Nom|Gender=Fem|Number=Sing	CF	nsubj	34
+3	33	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	34
+3	34	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	ROOT	34
+3	35	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	36
+3	36	CE	NOUN	pronoun		CE	nmod	34
+3	37	.	PUNCT	punc		.	punct	34
+3	38	Demonstratio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	demonstratio	ROOT	38
+3	39	.	PUNCT	punc		.	punct	38
+3	40	lungamus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	lungamus	ROOT	40
+3	41	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	obj	40
+3	42	AB	NOUN	preposition		AB	advmod	40
+3	43	,	PUNCT	punc		,	punct	44
+3	44	BF	NOUN	proper_noun		BF	conj	42
+3	45	,	PUNCT	punc		,	punct	46
+3	46	FE	NOUN	noun		FEus	conj	42
+3	47	,	PUNCT	punc		,	punct	48
+3	48	EB	NOUN	proper_noun		EB	conj	42
+3	49	.	PUNCT	punc		.	punct	40
+3	50	Et	CCONJ	conjunction		et	cc	61
+3	51	quia	SCONJ	conjunction		quia	mark	54
+3	52	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	nsubj	54
+3	53	ΒA	NOUN	X		ΒA	amod	52
+3	54	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	advcl	61
+3	55	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	54
+3	56	arcui	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	arceo	nmod	54
+3	57	BF	NOUN	proper_noun		BF	nmod	56
+3	58	,	PUNCT	punc		,	punct	54
+3	59	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	60
+3	60	AΒ	NOUN	X		AΒ	nsubj	61
+3	61	aequa	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequus	ROOT	61
+3	62	is	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3	is	nsubj	61
+3	63	BF	NOUN	proper_noun		BF	nummod	62
+3	64	.	PUNCT	punc		.	punct	61
+3	65	Et	CCONJ	conjunction		et	cc	77
+3	66	quia	SCONJ	conjunction		quia	mark	68
+3	67	AD	ADP	ADP		AD	case	68
+3	68	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	obl	77
+3	69	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	68
+3	70	ED	NOUN	noun		ED	nsubj	68
+3	71	,	PUNCT	punc		,	punct	75
+3	72	et	CCONJ	conjunction		et	cc	75
+3	73	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	74
+3	74	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nmod	75
+3	75	D	NOUN	NOUN		Decimus	conj	68
+3	76	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	77
+3	77	recti	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	ROOT	77
+3	78	,	PUNCT	punc		,	punct	81
+3	79	et	CCONJ	conjunction		et	cc	81
+3	80	DB	NOUN	adverb		DB	nsubj	81
+3	81	communis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	communis	conj	77
+3	82	,	PUNCT	punc		,	punct	85
+3	83	ergo	ADV	conjunction		ergo	advmod	85
+3	84	AB	ADP	preposition		AB	case	85
+3	85	aequalis	ADJ	adjective	Case=Gen|Gender=Neut|Number=Sing	aequalis	advcl:cmp	104
+3	86	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	85
+3	87	BE	NOUN	pronoun		BE	nsubj	85
+3	88	,	PUNCT	punc		,	punct	89
+3	89	et	CCONJ	conjunction		et	cc	91
+3	90	propterea	ADV	adverb		propterea	advmod	91
+3	91	BF	NOUN	proper_noun		BF	conj	85
+3	92	,	PUNCT	punc		,	punct	93
+3	93	BE	NOUN	pronoun		BE	conj	91
+3	94	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	95
+3	95	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	85
+3	96	,	PUNCT	punc		,	punct	100
+3	97	et	CCONJ	conjunction		et	cc	100
+3	98	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	99
+3	99	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nmod	100
+3	100	BFE	NOUN	proper_noun		BFE	conj	95
+3	101	,	PUNCT	punc		,	punct	102
+3	102	BEF	NOUN	noun		BEF	conj	85
+3	103	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	104
+3	104	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	77
+3	105	.	PUNCT	punc		.	punct	77
+3	106	Et	CCONJ	conjunction		et	cc	116
+3	107	quia	SCONJ	conjunction		quia	mark	112
+3	108	quadrilaterum	ADJ	noun	Case=Nom|Gender=Neut|Number=Sing	quadrilaterum	nsubj	109
+3	109	CFBA	NOUN	noun		CFBA	nsubj	112
+3	110	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	112
+3	111	in	ADP	preposition		in	case	112
+3	112	circulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	circulus	advcl	116
+3	113	,	PUNCT	punc		,	punct	112
+3	114	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	116
+3	115	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	116
+3	116	CFB	NOUN	adverb		CFB	ROOT	116
+3	117	cum	ADP	ADP		cum	case	118
+3	118	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	obl	116
+3	119	CAB	NOUN	preposition		CAB	amod	118
+3	120	ipsi	DET	determiner	Case=Abl|Gender=Masc|Number=Sing	ipse	obl:arg	121
+3	121	opposito	VERB	verb	Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	oppositus	acl	118
+3	122	,	PUNCT	punc		,	punct	125
+3	123	immo	ADV	adverb		immo	advmod	125
+3	124	cum	ADP	ADP		cum	case	125
+3	125	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	conj	116
+3	126	BEA	NOUN	noun		beo	nmod	125
+3	127	,	PUNCT	punc		,	punct	128
+3	128	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	116
+3	129	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	130
+3	130	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	nmod	128
+3	131	.	PUNCT	punc		.	punct	116
+3	132	Sed	CCONJ	conjunction		sed	cc	138
+3	133	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	138
+3	134	CEB	NOUN	noun		CEB	nmod	133
+3	135	cum	ADP	ADP		cum	case	136
+3	136	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	134
+3	137	BEA	NOUN	noun		beo	nmod	136
+3	138	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	138
+3	139	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	138
+3	140	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	141
+3	141	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	dep	138
+3	142	;	PUNCT	punc		;	punct	138
+3	143	ergo	ADV	adverb		ergo	advmod	150
+3	144	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	145
+3	145	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	150
+3	146	CFB	NOUN	noun		CFB	appos	145
+3	147	,	PUNCT	punc		,	punct	148
+3	148	CEB	NOUN	noun		CEB	appos	145
+3	149	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	150
+3	150	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	150
+3	151	.	PUNCT	punc		.	punct	150
+3	152	Et	CCONJ	conjunction		et	cc	153
+3	153	remanent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	153
+3	154	CFE	NOUN	proper_noun		CFE	nsubj	153
+3	155	,	PUNCT	punc		,	punct	157
+3	156	CEF	NOUN	noun		CEF	nsubj	157
+3	157	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	conj	153
+3	158	;	PUNCT	punc		;	punct	153
+3	159	ergo	ADV	adverb		ergo	advmod	161
+3	160	CE	NOUN	pronoun		CE	nsubj	161
+3	161	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	161
+3	162	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	161
+3	163	CF	NOUN	noun		CF	nsubj	161
+3	164	.	PUNCT	punc		.	punct	161
+3	165	Et	CCONJ	conjunction		et	cc	169
+3	166	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	169
+3	167	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	169
+3	168	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	169
+3	169	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	nolo	ROOT	169
+3	170	.	PUNCT	punc		.	punct	169
+4	0	4	NUM	number		4	ROOT	0
+4	1	.	PUNCT	punc		.	punct	0
+4	2	Sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	3
+4	3	AHC	ADJ	adverb		AHC	ROOT	3
+4	4	semicirculus	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	nsubj	3
+4	5	,	PUNCT	punc		,	punct	7
+4	6	et	CCONJ	conjunction		et	cc	7
+4	7	fiant	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	facio	conj	3
+4	8	super	ADP	adverb		super	advmod	7
+4	9	A	ADP	preposition		Ab	case	10
+4	10	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	obl	7
+4	11	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	12
+4	12	semicirculi	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	semicirculus	nsubj:pass	7
+4	13	,	PUNCT	punc		,	punct	15
+4	14	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	15
+4	15	unus	DET	number	Case=Nom|Gender=Masc|Number=Sing	unus	acl:relcl	12
+4	16	AD	ADP	preposition		AD	advmod	15
+4	17	,	PUNCT	punc		,	punct	18
+4	18	alter	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	alter	conj	16
+4	19	uero	ADV	adverb		uerus	advmod	15
+4	20	DC	NOUN	adverb		DC	conj	15
+4	21	,	PUNCT	punc		,	punct	23
+4	22	et	CCONJ	conjunction		et	cc	23
+4	23	DB	NOUN	adverb		DB	conj	20
+4	24	perpendicularis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	perpendicularis	nmod	23
+4	25	;	PUNCT	punc		;	punct	3
+4	26	utique	ADV	adverb		utique	advmod	27
+4	27	figura	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	figura	dep	50
+4	28	proueniens	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	prouenio	acl	27
+4	29	,	PUNCT	punc		,	punct	31
+4	30	quam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing	qui	obj	31
+4	31	uocat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	uoco	acl:relcl	27
+4	32	Archimedes	NOUN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Archimedes	nsubj	31
+4	33	Arbelon	NOUN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Arbelon	appos	32
+4	34	(	PUNCT	punc		(	punct	36
+4	35	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	36
+4	36	figura	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	figura	dep	41
+4	37	comprehensa	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	comprehenso	acl	36
+4	38	ab	ADP	preposition		ab	case	39
+4	39	arcu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	arcus	obl	37
+4	40	semicircul	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	semicircul	nsubj:pass	37
+4	41	i	NOUN	number		i	advmod	31
+4	42	maioris	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	maior	nmod	41
+4	43	et	CCONJ	conjunction		et	cc	45
+4	44	duabus	NUM	number	Case=Abl|Gender=Fem|Number=Plur	duo	nummod	45
+4	45	circumferentiis	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	circumferentia	conj	41
+4	46	semicirculorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	semicirculus	nmod	45
+4	47	minorum	ADJ	adjective	Case=Gen|Gender=Masc|Number=Plur	minor	nmod	45
+4	48	)	PUNCT	punc		)	punct	27
+4	49	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	50
+4	50	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	50
+4	51	circulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	circulus	nmod	50
+4	52	,	PUNCT	punc		,	punct	55
+4	53	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	54
+4	54	di	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	deus	nsubj	55
+4	55	amet	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	amo	acl:relcl	51
+4	56	er	NOUN	pronoun		er	nsubj	58
+4	57	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	58
+4	58	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	amod	59
+4	59	DB	NOUN	adverb		DB	advmod	55
+4	60	.	PUNCT	punc		.	punct	55
+4	61	Demonstratio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	demonstratio	ROOT	61
+4	62	.	PUNCT	punc		.	punct	61
+4	63	Quia	SCONJ	conjunction		quia	mark	67
+4	64	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj	67
+4	65	OB	ADP	preposition		OB	case	66
+4	66	media	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	medius	nmod	64
+4	67	proportionalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	proportionalis	advcl	77
+4	68	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	67
+4	69	inter	ADP	preposition		inter	case	71
+4	70	duas	NUM	number	Case=Acc|Gender=Fem|Number=Plur	duo	nummod	71
+4	71	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	obl	67
+4	72	DA	NOUN	verb		DA	nmod	71
+4	73	,	PUNCT	punc		,	punct	74
+4	74	DC	NOUN	number		DC	conj	72
+4	75	,	PUNCT	punc		,	punct	67
+4	76	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	77
+4	77	planum	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	planus	ROOT	77
+4	78	AD	ADP	preposition		AD	case	79
+4	79	i	NOUN	number		i	obl	77
+4	80	n	PART	NOUN		n	obl:tmod	79
+4	81	DC	NOUN	adverb		DC	nmod	79
+4	82	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	conj	77
+4	83	quadrato	ADJ	noun	Case=Dat|Gender=Masc|Number=Sing	quadro	nmod	82
+4	84	DB	NOUN	noun		DB	nmod	82
+4	85	.	PUNCT	punc		.	punct	77
+4	86	Et	CCONJ	conjunction		et	cc	87
+4	87	ponamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	pono	ROOT	87
+4	88	AD	ADP	preposition		AD	mark	90
+4	89	in	ADP	preposition		in	case	90
+4	90	DC	NOUN	adverb		DC	obl	87
+4	91	cum	ADP	ADP		cum	case	93
+4	92	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	93
+4	93	quadratis	NOUN	verb	Case=Abl|Gender=Neut|Number=Plur	quadro	obl	87
+4	94	AD	ADP	preposition		AD	advmod	93
+4	95	,	PUNCT	punc		,	punct	96
+4	96	DC	NOUN	adverb		DC	conj	94
+4	97	communiter	ADV	adverb		communiter	advmod	87
+4	98	;	PUNCT	punc		;	punct	87
+4	99	fiet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	facio	ROOT	99
+4	100	planum	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	planus	nsubj	99
+4	101	AD	ADP	preposition		AD	advmod	99
+4	102	in	ADP	preposition		in	case	103
+4	103	DC	NOUN	number		DC	obl	99
+4	104	bis	ADV	adverb		bis	advmod	99
+4	105	cum	ADP	preposition		cum	case	107
+4	106	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	107
+4	107	quadratis	NOUN	verb	Case=Abl|Gender=Neut|Number=Plur	quadro	obl	99
+4	108	AD	ADP	preposition		AD	case	110
+4	109	,	PUNCT	punc		,	punct	110
+4	110	DC	NOUN	adverb		DC	nummod	107
+4	111	,	PUNCT	punc		,	punct	113
+4	112	nempe	PART	adverb		nempe	discourse	113
+4	113	quadratum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	quadro	conj	107
+4	114	AC	CCONJ	conjunction		AC	nummod	113
+4	115	,	PUNCT	punc		,	punct	116
+4	116	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	conj	99
+4	117	duplo	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	duplus	amod	118
+4	118	quadrati	VERB	noun	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	quadratus	nmod	116
+4	119	DB	NOUN	adverb		DB	nmod	116
+4	120	cum	ADP	ADP		cum	case	122
+4	121	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	122
+4	122	quadratis	NOUN	verb	Case=Abl|Gender=Neut|Number=Plur	quadro	obl	116
+4	123	AD	ADP	preposition		AD	case	125
+4	124	,	PUNCT	punc		,	punct	125
+4	125	DC	NOUN	adverb		DC	advmod	122
+4	126	.	PUNCT	punc		.	punct	99
+4	127	Et	CCONJ	conjunction		et	cc	130
+4	128	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	nsubj	130
+4	129	circulorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	circulus	nmod	128
+4	130	eadem	DET	adjective	Case=Nom|Gender=Fem|Number=Sing	idem	ROOT	130
+4	131	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	130
+4	132	ac	CCONJ	conjunction		atque	cc	133
+4	133	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	conj	128
+4	134	quadratorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	quadratum	nmod	133
+4	135	;	PUNCT	punc		;	punct	130
+4	136	ergo	ADV	conjunction		ergo	advmod	144
+4	137	circulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circulus	nsubj	144
+4	138	,	PUNCT	punc		,	punct	142
+4	139	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	140
+4	140	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	nsubj	142
+4	141	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	142
+4	142	AC	NOUN	conjunction		AC	acl:relcl	137
+4	143	,	PUNCT	punc		,	punct	137
+4	144	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	144
+4	145	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	144
+4	146	duplo	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	duplus	amod	147
+4	147	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	144
+4	148	,	PUNCT	punc		,	punct	152
+4	149	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	150
+4	150	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	nsubj	152
+4	151	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	152
+4	152	DB	NOUN	number		DB	acl:relcl	147
+4	153	,	PUNCT	punc		,	punct	156
+4	154	cum	ADP	conjunction		cum	case	156
+4	155	duobus	NUM	number	Case=Abl|Gender=Masc|Number=Plur	duo	nummod	156
+4	156	circulis	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	circulus	nmod	144
+4	157	,	PUNCT	punc		,	punct	159
+4	158	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	159
+4	159	diametri	NOUN	adjective	Case=Nom|Gender=Masc|Number=Plur	diametrus	nsubj	161
+4	160	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	161
+4	161	AD	NOUN	preposition		AD	acl:relcl	156
+4	162	,	PUNCT	punc		,	punct	163
+4	163	DC	NOUN	number		DC	conj	161
+4	164	,	PUNCT	punc		,	punct	168
+4	165	et	CCONJ	conjunction		et	cc	168
+4	166	semicirculus	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	nsubj	168
+4	167	AC	CCONJ	conjunction		AC	cc	168
+4	168	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	156
+4	169	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	168
+4	170	circulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	circulus	nmod	168
+4	171	,	PUNCT	punc		,	punct	175
+4	172	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	173
+4	173	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	nsubj	175
+4	174	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	175
+4	175	DB	NOUN	number		DB	acl:relcl	168
+4	176	,	PUNCT	punc		,	punct	179
+4	177	cum	ADP	conjunction		cum	case	179
+4	178	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	179
+4	179	semicirculis	NOUN	noun	Case=Abl|Gender=Neut|Number=Plur	semicirculus	nmod	168
+4	180	AD	ADP	preposition		AD	nummod	179
+4	181	,	PUNCT	punc		,	punct	182
+4	182	DC	NOUN	adverb		DC	conj	180
+4	183	.	PUNCT	punc		.	punct	144
+4	184	Et	CCONJ	conjunction		et	cc	185
+4	185	auferamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	aufero	ROOT	185
+4	186	duos	NUM	number	Case=Acc|Gender=Masc|Number=Plur	duo	nummod	187
+4	187	semicirculos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	semicirculus	obj	185
+4	188	AD	ADP	preposition		AD	advmod	185
+4	189	,	PUNCT	punc		,	punct	190
+4	190	DC	NOUN	number		DC	conj	188
+4	191	communiter	ADV	adverb		communiter	advmod	185
+4	192	;	PUNCT	punc		;	punct	185
+4	193	remanet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	193
+4	194	figura	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	figura	nsubj	193
+4	195	,	PUNCT	punc		,	punct	197
+4	196	quam	PRON	conjunction	Case=Acc|Gender=Fem|Number=Sing	qui	obj	197
+4	197	continent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	contineo	acl:relcl	194
+4	198	semicirculi	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	semicirculus	nsubj	197
+4	199	AC	NOUN	conjunction		AC	advmod	197
+4	200	,	PUNCT	punc		,	punct	201
+4	201	AD	NOUN	preposition		AD	conj	199
+4	202	,	PUNCT	punc		,	punct	203
+4	203	DC	NUM	number		DC	conj	199
+4	204	et	CCONJ	conjunction		et	cc	206
+4	205	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	206
+4	206	figura	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	figura	conj	197
+4	207	quam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing	qui	obj	208
+4	208	uocavit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	uoco	acl:relcl	206
+4	209	Archimedes	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Archimedes	nsubj	208
+4	210	Arbelos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	Arbelus	xcomp	208
+4	211	)	PUNCT	punc		)	punct	194
+4	212	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	amod	194
+4	213	circulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	circulus	nmod	212
+4	214	,	PUNCT	punc		,	punct	218
+4	215	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	216
+4	216	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	nsubj	218
+4	217	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	218
+4	218	DB	NOUN	number		DB	acl:relcl	212
+4	219	.	PUNCT	punc		.	punct	193
+4	220	Et	CCONJ	conjunction		et	cc	224
+4	221	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	224
+4	222	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	224
+4	223	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	224
+4	224	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	uolo	ROOT	224
+4	225	.	PUNCT	punc		.	punct	224
+5	0	5	NUM	number		5	ROOT	0
+5	1	.	PUNCT	punc		.	punct	0
+5	2	Si	SCONJ	conjunction		si	mark	4
+5	3	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	4
+5	4	semicirculus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	advcl	8
+5	5	AB	NOUN	ADP		AB	advmod	4
+5	6	,	PUNCT	punc		,	punct	4
+5	7	et	CCONJ	conjunction		et	cc	8
+5	8	signatum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	signo	advcl	19
+5	9	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	aux:pass	8
+5	10	in	ADP	preposition		in	case	12
+5	11	eius	PRON	pronoun	Case=Gen|Gender=Fem|Number=Sing|Person=3	is	nmod	12
+5	12	diametro	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	diametros	obl	8
+5	13	punctum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	punctum	nsubj:pass	8
+5	14	C	NOUN	conjunction		C	cc	13
+5	15	ubicun	ADV	adverb		ubicun	advmod:lmod	13
+5	16	que	ADV	adverb		que	advmod:lmod	13
+5	17	,	PUNCT	punc		,	punct	8
+5	18	et	CCONJ	conjunction		et	cc	19
+5	19	fiant	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	facio	ROOT	19
+5	20	super	ADP	ADP		super	case	21
+5	21	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	obl	19
+5	22	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	23
+5	23	semicirculi	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	semicirculus	nsubj:pass	19
+5	24	AC	NOUN	conjunction		AC	advmod	19
+5	25	,	PUNCT	punc		,	punct	26
+5	26	CB	NOUN	adverb		CBm	conj	24
+5	27	,	PUNCT	punc		,	punct	29
+5	28	et	ADV	conjunction		et	cc	29
+5	29	educatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	educo	conj	19
+5	30	ex	ADP	ADP		ex	case	31
+5	31	C	NOUN	NOUN		C	obl	29
+5	32	perpendicularis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	perpendicularis	amod	33
+5	33	CD	NOUN	adverb		CD	nmod	31
+5	34	super	ADP	ADP		super	case	35
+5	35	AB	NOUN	preposition		aB	obl	29
+5	36	,	PUNCT	punc		,	punct	38
+5	37	et	CCONJ	conjunction		et	cc	38
+5	38	describantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	describo	conj	19
+5	39	ad	ADP	ADP		ad	case	41
+5	40	utrasque	DET	adjective	Case=Acc|Gender=Fem|Number=Plur	uterque	det	41
+5	41	partes	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	pars	obl	38
+5	42	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	43
+5	43	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nsubj:pass	38
+5	44	tangentes	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	tango	acl	43
+5	45	illam	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	ille	obj	44
+5	46	et	CCONJ	conjunction		et	cc	47
+5	47	tangentes	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	tango	conj	44
+5	48	semicirculos	NOUN	adjective	Case=Acc|Gender=Masc|Number=Plur	semicirculus	obj	47
+5	49	,	PUNCT	punc		,	punct	55
+5	50	utique	ADV	adverb		utique	advmod	55
+5	51	illi	DET	adjective	Case=Nom|Gender=Masc|Number=Plur	ille	det	55
+5	52	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	53
+5	53	circuli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	circulus	nsubj	55
+5	54	sun	AUX	noun	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sun	cop	55
+5	55	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	19
+5	56	.	PUNCT	punc		.	punct	19
+5	57	Demonstratio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	demonstratio	ROOT	57
+5	58	.	PUNCT	punc		.	punct	57
+5	59	Sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	ROOT	59
+5	60	alter	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	alter	nsubj	59
+5	61	circulorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	circulus	nmod	60
+5	62	tangens	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	tango	acl	60
+5	63	DC	NOUN	number		DC	obj	62
+5	64	in	ADP	ADP		in	case	65
+5	65	E	NOUN	number		E	obl	62
+5	66	et	CCONJ	conjunction		et	cc	67
+5	67	semicirculum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	semicirculus	conj	62
+5	68	AB	NOUN	ADP		AB	orphan	67
+5	69	in	ADP	ADP		in	case	70
+5	70	F	NOUN	NOUN		f	orphan	67
+5	71	et	CCONJ	conjunction		et	cc	72
+5	72	semicirculum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	semicirculus	conj	62
+5	73	AC	NOUN	conjunction		AC	cc	72
+5	74	in	ADP	ADP		in	case	75
+5	75	G	NOUN	NOUN		Gherardesca	orphan	72
+5	76	,	PUNCT	punc		,	punct	78
+5	77	et	CCONJ	conjunction		et	cc	78
+5	78	educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	conj	59
+5	79	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	obj	78
+5	80	HE	NOUN	adjective		HE	obl:arg	78
+5	81	;	PUNCT	punc		;	punct	59
+5	82	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	erit	cop	83
+5	83	parallela	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	parallelus	ROOT	83
+5	84	diametro	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	diametros	obl:arg	83
+5	85	AB	NOUN	ADP		AB	advmod	83
+5	86	,	PUNCT	punc		,	punct	87
+5	87	eo	PRON	pronoun	Case=Abl|Gender=Neut|Number=Sing|Person=3	is	obl	83
+5	88	quod	SCONJ	conjunction		quod	mark	95
+5	89	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	90
+5	90	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	95
+5	91	HEC	DET	adjective	Case=Nom|Gender=Neut|Number=Plur	HEC	det	90
+5	92	,	PUNCT	punc		,	punct	93
+5	93	ACE	NOUN	noun		aceo	appos	90
+5	94	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	95
+5	95	recti	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	87
+5	96	.	PUNCT	punc		.	punct	83
+5	97	Et	CCONJ	conjunction		et	cc	98
+5	98	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	ROOT	98
+5	99	FH	NOUN	number		FH	obj	98
+5	100	,	PUNCT	punc		,	punct	101
+5	101	HA	NOUN	verb		HA	conj	98
+5	102	;	PUNCT	punc		;	punct	98
+5	103	ergo	ADV	conjunction		ergo	advmod	107
+5	104	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj	107
+5	105	AF	NOUN	ADP		AF	nummod	104
+5	106	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	107
+5	107	recta	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	rego	ROOT	107
+5	108	,	PUNCT	punc		,	punct	110
+5	109	uti	SCONJ	conjunction		uti	mark	110
+5	110	dictum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	dico	advcl:cmp	107
+5	111	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	110
+5	112	in	ADP	preposition		in	case	113
+5	113	propositione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	propositio	obl	110
+5	114	I.	PUNCT	punc		I.	punct	107
+5	115	Et	CCONJ	conjunction		et	cc	116
+5	116	occurrent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	occurro	conj	107
+5	117	AF	NOUN	ADP		AF	obj	116
+5	118	,	PUNCT	punc		,	punct	119
+5	119	CE	NOUN	adverb		CE	conj	116
+5	120	in	ADP	preposition		in	case	121
+5	121	D	NOUN	NOUN		Decimus	obl:arg	116
+5	122	,	PUNCT	punc		,	punct	123
+5	123	eo	PRON	pronoun	Case=Abl|Gender=Neut|Number=Sing|Person=3	is	obl	116
+5	124	quod	SCONJ	conjunction		quod	mark	125
+5	125	egrediuntur	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	egredior	acl	123
+5	126	ab	ADP	preposition		ab	case	127
+5	127	angulis	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	angulus	obl:arg	125
+5	128	A	NOUN	NOUN		a	nummod	127
+5	129	,	PUNCT	punc		,	punct	130
+5	130	C	NOUN	NOUN		C	conj	128
+5	131	,	PUNCT	punc		,	punct	134
+5	132	minoribus	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	minor	obl:arg	134
+5	133	duobus	NUM	number	Case=Abl|Gender=Masc|Number=Plur	duo	nummod	132
+5	134	rectis	VERB	verb	Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	127
+5	135	.	PUNCT	punc		.	punct	116
+5	136	Et	CCONJ	conjunction		et	cc	137
+5	137	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	ROOT	137
+5	138	etiam	ADV	conjunction		etiam	advmod:emph	137
+5	139	FE	NOUN	noun		FE	obj	137
+5	140	,	PUNCT	punc		,	punct	141
+5	141	EB	NOUN	conjunction		EB	conj	139
+5	142	;	PUNCT	punc		;	punct	137
+5	143	ergo	ADV	conjunction		ergo	advmod	147
+5	144	EFB	NOUN	adverb		EFB	nsubj	147
+5	145	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	147
+5	146	etiam	ADV	conjunction		etiam	advmod:emph	147
+5	147	recta	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	rego	ROOT	147
+5	148	,	PUNCT	punc		,	punct	150
+5	149	ut	SCONJ	conjunction		ut	mark	150
+5	150	diximus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	dico	advcl:cmp	147
+5	151	,	PUNCT	punc		,	punct	153
+5	152	et	CCONJ	conjunction		et	cc	153
+5	153	perpendicularis	NOUN	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	conj	147
+5	154	super	ADP	preposition		super	case	155
+5	155	AD	NOUN	preposition		AD	obl	153
+5	156	,	PUNCT	punc		,	punct	157
+5	157	eo	PRON	pronoun	Case=Abl|Gender=Neut|Number=Sing|Person=3	is	obl	147
+5	158	quod	SCONJ	conjunction		quod	mark	160
+5	159	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	160
+5	160	AFB	NOUN	ADP		AFB	obl	162
+5	161	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	162
+5	162	rectus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	rego	acl	157
+5	163	,	PUNCT	punc		,	punct	165
+5	164	quia	SCONJ	conjunction		quia	mark	165
+5	165	cadit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	cado	advcl	162
+5	166	in	ADP	preposition		in	case	167
+5	167	semicirculum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	semicirculus	obl:arg	165
+5	168	AB	NOUN	ADP		AB	nsubj	165
+5	169	.	PUNCT	punc		.	punct	147
+5	170	Et	CCONJ	conjunction		et	cc	171
+5	171	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	ROOT	171
+5	172	HG	NOUN	punc		HG	obj	171
+5	173	,	PUNCT	punc		,	punct	174
+5	174	GC	NOUN	NOUN		GC	conj	172
+5	175	;	PUNCT	punc		;	punct	171
+5	176	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	179
+5	177	HC	NOUN	X		HC	nsubj	179
+5	178	etiam	ADV	conjunction		etiam	advmod:emph	179
+5	179	recta	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	rego	ROOT	179
+5	180	.	PUNCT	punc		.	punct	179
+5	181	Et	CCONJ	conjunction		et	cc	182
+5	182	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	ROOT	182
+5	183	EG	NOUN	noun		EG	obj	182
+5	184	,	PUNCT	punc		,	punct	188
+5	185	GA	NOUN	noun		GA	nsubj	188
+5	186	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	188
+5	187	EA	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3	is	nsubj	188
+5	188	recta	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	rego	conj	182
+5	189	;	PUNCT	punc		;	punct	182
+5	190	et	CCONJ	conjunction		et	cc	191
+5	191	producam	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	produco	ROOT	191
+5	192	us	VERB	pronoun	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	us	ccomp	191
+5	193	eam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing|Person=3	is	obj	192
+5	194	ad	ADP	preposition		ad	case	195
+5	195	l	NOUN	NOUN		lucius	obl	192
+5	196	et	CCONJ	conjunction		et	cc	197
+5	197	iungam	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	iungo	conj	192
+5	198	us	ADV	adverb		us	obj	197
+5	199	BI	NOUN	adjective		BI	obj	197
+5	200	,	PUNCT	punc		,	punct	204
+5	201	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	qui	nsubj	204
+5	202	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	204
+5	203	etiam	ADV	adverb		etiam	advmod:emph	204
+5	204	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	acl:relcl	197
+5	205	super	ADP	preposition		super	case	206
+5	206	AI	NOUN	noun		aio	obl	204
+5	207	,	PUNCT	punc		,	punct	209
+5	208	et	CCONJ	conjunction		et	cc	209
+5	209	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	conj	191
+5	210	DI	NOUN	noun	Case=Voc|Gender=Masc|Number=Plur	deus	obj	209
+5	211	.	PUNCT	punc		.	punct	191
+5	212	Et	CCONJ	conjunction		et	cc	219
+5	213	quia	SCONJ	conjunction		quia	mark	219
+5	214	AD	NOUN	preposition		AD	nsubj	219
+5	215	,	PUNCT	punc		,	punct	214
+5	216	AB	NOUN	preposition		AB	advmod	219
+5	217	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	219
+5	218	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nsubj	219
+5	219	rectae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	rectus	advcl	256
+5	220	et	CCONJ	conjunction		et	cc	221
+5	221	educta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	educo	conj	219
+5	222	ex	ADP	preposition		ex	case	223
+5	223	D	NOUN	NOUN		Decimus	obl:arg	221
+5	224	ad	ADP	preposition		ad	case	225
+5	225	ineam	NOUN	verb	Case=Acc|Gender=Fem|Number=Sing	ineo	nmod	223
+5	226	AB	ADP	preposition		AB	case	228
+5	227	perpendicularis	ADJ	noun	Case=Abl|Gender=Neut|Number=Plur	perpendicularis	amod	228
+5	228	DC	NOUN	adverb		DC	obl:arg	221
+5	229	et	CCONJ	conjunction		et	cc	231
+5	230	ex	ADP	preposition		ex	case	231
+5	231	B	NOUN	NOUN		Bornellum	conj	221
+5	232	ad	ADP	preposition		ad	case	233
+5	233	DA	NOUN	noun		DA	orphan	231
+5	234	perpendicularis	ADJ	adjective	Case=Gen|Gender=Fem|Number=Sing	perpendicularis	amod	235
+5	235	BF	NOUN	adverb		BF	nmod	233
+5	236	,	PUNCT	punc		,	punct	240
+5	237	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Plur	qui	nsubj	240
+5	238	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	240
+5	239	mutuo	ADV	adverb		mutuus	advmod	240
+5	240	secant	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	seco	acl:relcl	235
+5	241	in	ADP	preposition		in	case	242
+5	242	E	NOUN	NOUN		E	obl	240
+5	243	,	PUNCT	punc		,	punct	250
+5	244	et	CCONJ	conjunction		et	cc	250
+5	245	educta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	educo	acl	246
+5	246	AE	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	aE	nsubj	250
+5	247	ad	ADP	preposition		ad	case	248
+5	248	l	NOUN	NOUN		lucius	nmod	246
+5	249	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	250
+5	250	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	conj	240
+5	251	super	ADP	preposition		super	case	252
+5	252	Bl	NOUN	noun		Bl	obl	250
+5	253	,	PUNCT	punc		,	punct	219
+5	254	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	256
+5	255	BID	NOUN	noun		BID	advmod	256
+5	256	rectae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	rectus	ROOT	256
+5	257	,	PUNCT	punc		,	punct	259
+5	258	quemadmodum	SCONJ	adverb		quemadmodum	mark	259
+5	259	ostendimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ostendo	advcl:cmp	256
+5	260	in	ADP	preposition		in	case	261
+5	261	propositionibus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	propositio	obl	259
+5	262	,	PUNCT	punc		,	punct	264
+5	263	quas	PRON	pronoun	Case=Acc|Gender=Fem|Number=Plur	qui	obj	264
+5	264	confecimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	conficio	acl:relcl	261
+5	265	nexpositione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	nexpositio	obl	264
+5	266	tractatus	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	tractatus	nmod	265
+5	267	de	ADP	preposition		de	case	269
+5	268	triangulis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	triangulus	amod	269
+5	269	rectangulis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	rectangulus	nmod	266
+5	270	.	PUNCT	punc		.	punct	256
+5	271	Et	CCONJ	conjunction		et	cc	279
+5	272	quia	SCONJ	conjunction		quia	mark	279
+5	273	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	274
+5	274	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	279
+5	275	AGC	NOUN	proper_noun		AGCus	nmod	274
+5	276	,	PUNCT	punc		,	punct	274
+5	277	AlB	ADV	adjective		AlB	advmod	279
+5	278	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	279
+5	279	recti	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	ROOT	279
+5	280	,	PUNCT	punc		,	punct	282
+5	281	utique	ADV	adverb		utique	advmod	282
+5	282	BD	NOUN	adverb		BD	conj	279
+5	283	,	PUNCT	punc		,	punct	284
+5	284	CG	NOUN	proper_noun		CG	conj	282
+5	285	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	286
+5	286	parallelae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	parallelus	conj	279
+5	287	,	PUNCT	punc		,	punct	288
+5	288	et	CCONJ	conjunction		et	cc	301
+5	289	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	nsubj	301
+5	290	AD	ADP	preposition		AD	case	292
+5	291	ad	ADP	preposition		ad	case	292
+5	292	DΗ	NOUN	number		DΗ	nmod	289
+5	293	,	PUNCT	punc		,	punct	299
+5	294	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	qui	nsubj	299
+5	295	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	299
+5	296	ut	SCONJ	conjunction		ut	mark	297
+5	297	AC	NOUN	conjunction		AC	mark	299
+5	298	ad	ADP	preposition		ad	case	299
+5	299	HE	NOUN	interjection		HE	acl:relcl	289
+5	300	,	PUNCT	punc		,	punct	289
+5	301	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	conj	279
+5	302	ut	SCONJ	conjunction		ut	mark	303
+5	303	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	advcl:cmp	301
+5	304	AB	ADP	preposition		AB	case	306
+5	305	ad	ADP	preposition		ad	case	306
+5	306	BC	NOUN	adverb		BC	nmod	303
+5	307	;	PUNCT	punc		;	punct	279
+5	308	ergo	ADV	conjunction		ergo	advmod	313
+5	309	rectangulum	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	rectangulus	nsubj	312
+5	310	AC	CCONJ	conjunction		AC	cc	309
+5	311	in	ADP	preposition		in	case	312
+5	312	CB	NOUN	conjunction		CB	obl	313
+5	313	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	ROOT	313
+5	314	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	313
+5	315	rectangulo	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	rectangulus	nmod	313
+5	316	AB	ADP	preposition		AB	case	318
+5	317	in	ADP	preposition		in	case	318
+5	318	HE	NOUN	adjective		HE	nmod	315
+5	319	.	PUNCT	punc		.	punct	313
+5	320	Et	CCONJ	conjunction		et	cc	322
+5	321	similiter	ADV	adverb		similiter	advmod	322
+5	322	demonstratur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	demonstro	ROOT	322
+5	323	in	ADP	preposition		in	case	324
+5	324	circuio	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	circuium	obl	322
+5	325	LMN	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	LMN	nsubj:pass	322
+5	326	quod	SCONJ	pronoun		qui	mark	331
+5	327	rectangulum	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	rectangulus	nsubj	331
+5	328	AC	CCONJ	conjunction		AC	cc	327
+5	329	in	ADP	preposition		in	case	330
+5	330	CB	NOUN	conjunction		CBm	obl	331
+5	331	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	dep	322
+5	332	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	333
+5	333	rectangulo	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	rectangulus	csubj	331
+5	334	AB	ADP	preposition		AB	advmod	333
+5	335	in	ADP	preposition		in	nmod	333
+5	336	suam	DET	determiner	Case=Acc|Gender=Fem|Number=Sing	suus	det	333
+5	337	,	PUNCT	punc		,	punct	338
+5	338	diametrum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	diametros	advcl	322
+5	339	,	PUNCT	punc		,	punct	341
+5	340	et	CCONJ	conjunction		et	cc	341
+5	341	demonstratur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	demonstro	conj	322
+5	342	inde	ADV	adverb		inde	advmod:lmod	341
+5	343	etiam	ADV	adverb		etiam	advmod:emph	341
+5	344	quod	SCONJ	conjunction		quod	mark	352
+5	345	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	346
+5	346	diametri	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	diametrus	nsubj	352
+5	347	circulorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	circulus	nmod	346
+5	348	EFG	NOUN	verb		EFG	nmod	346
+5	349	,	PUNCT	punc		,	punct	350
+5	350	LMN	NOUN	noun		LMN	conj	346
+5	351	sint	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	352
+5	352	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	csubj:pass	341
+5	353	;	PUNCT	punc		;	punct	322
+5	354	ergo	ADV	conjunction		ergo	advmod	359
+5	355	illi	DET	adjective	Case=Nom|Gender=Masc|Number=Plur	ille	det	357
+5	356	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	357
+5	357	circuli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	circulus	nsubj	359
+5	358	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	359
+5	359	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	359
+5	360	.	PUNCT	punc		.	punct	359
+5	361	Et	CCONJ	conjunction		et	cc	365
+5	362	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	365
+5	363	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	365
+5	364	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	365
+5	365	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	uolo	ROOT	365
+5	366	.	PUNCT	punc		.	punct	365
+6	0	6	NUM	number		6	ROOT	0
+6	1	.	PUNCT	punc		.	punct	0
+6	2	Si	SCONJ	conjunction		si	mark	4
+6	3	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	4
+6	4	semicirculus	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	advcl	52
+6	5	ABC	NOUN	adverb		ABC	nmod	4
+6	6	,	PUNCT	punc		,	punct	11
+6	7	et	CCONJ	conjunction		et	cc	11
+6	8	in	ADP	preposition		in	case	10
+6	9	eius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing|Person=3	is	nmod	10
+6	10	diametro	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	diametros	obl	11
+6	11	sumatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	sumo	conj	4
+6	12	punctum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	punctum	nsubj:pass	11
+6	13	D	NOUN	NOUN		Decimus	flat	12
+6	14	,	PUNCT	punc		,	punct	19
+6	15	et	CCONJ	conjunction		et	cc	19
+6	16	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	19
+6	17	AD	ADP	ADP		AD	case	19
+6	18	ipsius	DET	determiner	Case=Gen|Gender=Masc|Number=Sing	ipse	nmod	19
+6	19	DC	NUM	adverb		DC	conj	11
+6	20	sesquia	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	sesquius	nsubj	19
+6	21	,	PUNCT	punc		,	punct	22
+6	22	et	CCONJ	conjunction		et	cc	23
+6	23	describantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	describo	conj	4
+6	24	super	ADP	adverb		super	advmod	23
+6	25	AD	NOUN	preposition		AD	obj	23
+6	26	,	PUNCT	punc		,	punct	27
+6	27	DC	NUM	number		DC	conj	25
+6	28	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	29
+6	29	semicirculi	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	semicirculus	nmod	23
+6	30	,	PUNCT	punc		,	punct	32
+6	31	et	CCONJ	conjunction		et	cc	32
+6	32	ponatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	pono	conj	4
+6	33	circulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circulus	nsubj:pass	32
+6	34	EF	NOUN	noun		EF	amod	33
+6	35	inter	ADP	preposition		inter	case	37
+6	36	tres	NUM	number	Case=Acc|Gender=Masc|Number=Plur	tres	nummod	37
+6	37	semicirculos	NOUN	adjective	Case=Acc|Gender=Masc|Number=Plur	semicirculus	nmod	33
+6	38	tangens	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	tango	acl	33
+6	39	eos	PRON	pronoun	Case=Acc|Gender=Masc|Number=Plur|Person=3	is	obj	38
+6	40	,	PUNCT	punc		,	punct	42
+6	41	et	CCONJ	conjunction		et	cc	42
+6	42	educatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	educo	conj	4
+6	43	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	nsubj:pass	42
+6	44	EF	NOUN	noun		EF	nsubj:pass	42
+6	45	in	ADP	preposition		in	case	46
+6	46	illo	DET	adjective	Case=Abl|Gender=Masc|Number=Sing	ille	obl	42
+6	47	parallela	VERB	adjective	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	parallelus	xcomp	42
+6	48	diametro	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	diametros	obl:arg	47
+6	49	AC	NOUN	conjunction		AC	nmod	48
+6	50	,	PUNCT	punc		,	punct	4
+6	51	reperiri	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Pass	reperio	xcomp	52
+6	52	debet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	debeo	ROOT	52
+6	53	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	nsubj	52
+6	54	diametri	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	diametrus	nmod	53
+6	55	AC	CCONJ	conjunction		AC	nmod	53
+6	56	ad	ADP	preposition		ad	case	57
+6	57	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	nmod	53
+6	58	EF	PROPN	noun	Case=Gen|Gender=Masc|Number=Sing	EF	nmod	57
+6	59	.	PUNCT	punc		.	punct	52
+6	60	lungam	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	lungam	amod	64
+6	61	us	NOUN	pronoun	Case=Nom|Gender=Fem|Number=Sing	us	advcl	60
+6	62	enim	PART	conjunction		enim	discourse	64
+6	63	duas	NUM	number	Case=Acc|Gender=Fem|Number=Plur	duo	nummod	64
+6	64	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	ROOT	64
+6	65	AE	NOUN	noun		AE	nmod	64
+6	66	,	PUNCT	punc		,	punct	67
+6	67	EB	NOUN	proper_noun		EB	conj	65
+6	68	et	CCONJ	conjunction		et	cc	70
+6	69	duas	NUM	number	Case=Acc|Gender=Fem|Number=Plur	duo	nummod	70
+6	70	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	conj	65
+6	71	CF	NOUN	adverb		CF	amod	70
+6	72	,	PUNCT	punc		,	punct	73
+6	73	FB	NOUN	number		FB	conj	71
+6	74	;	PUNCT	punc		;	punct	64
+6	75	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	76
+6	76	CB	NOUN	conjunction		CB	ROOT	76
+6	77	,	PUNCT	punc		,	punct	79
+6	78	AB	ADP	preposition		AB	advmod	79
+6	79	rectae	ADJ	verb	Case=Nom|Gender=Fem|Number=Plur	rego	conj:expl	76
+6	80	,	PUNCT	punc		,	punct	82
+6	81	ut	SCONJ	adverb		ut	mark	82
+6	82	dictum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	dico	advcl:cmp	76
+6	83	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	82
+6	84	in	ADP	preposition		in	case	86
+6	85	prima	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	primus	amod	86
+6	86	propositione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	propositio	obl	82
+6	87	.	PUNCT	punc		.	punct	76
+6	88	Describamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	describo	ROOT	88
+6	89	etiam	ADV	adverb		etiam	advmod:emph	88
+6	90	duas	NUM	number	Case=Acc|Gender=Fem|Number=Plur	duo	nummod	91
+6	91	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	obj	88
+6	92	FGA	NOUN	adjective		FGA	appos	91
+6	93	,	PUNCT	punc		,	punct	94
+6	94	EHC	NOUN	adverb		EHC	conj	92
+6	95	,	PUNCT	punc		,	punct	96
+6	96	ostendetur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	ostendo	conj	88
+6	97	que	PART	adverb		que	discourse	96
+6	98	esse	AUX	verb	Tense=Pres|VerbForm=Inf	sum	cop	100
+6	99	quoque	ADV	adverb		quoque	advmod	100
+6	100	rectas	ADJ	verb	Case=Acc|Gender=Fem|Number=Plur	rego	xcomp	96
+6	101	;	PUNCT	punc		;	punct	88
+6	102	similiter	ADV	adverb		similiter	advmod	104
+6	103	duas	NUM	number	Case=Acc|Gender=Fem|Number=Plur	duo	nummod	104
+6	104	ineas	VERB	verb	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ineo	ROOT	104
+6	105	DE	NOUN	ADP		DE	dep	104
+6	106	,	PUNCT	punc		,	punct	107
+6	107	DF	NOUN	adverb		DF	conj	105
+6	108	,	PUNCT	punc		,	punct	109
+6	109	et	CCONJ	conjunction		et	cc	110
+6	110	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	conj	104
+6	111	DΙ	NOUN	X		DΙ	obj	110
+6	112	,	PUNCT	punc		,	punct	113
+6	113	DL	NOUN	noun		DLis	conj	111
+6	114	et	CCONJ	conjunction		et	cc	115
+6	115	EM	NOUN	verb		EM	conj	111
+6	116	,	PUNCT	punc		,	punct	117
+6	117	FN	NOUN	noun		FN	conj	110
+6	118	et	CCONJ	conjunction		et	cc	119
+6	119	producamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	produco	conj	110
+6	120	eas	PRON	pronoun	Case=Acc|Gender=Fem|Number=Plur|Person=3	is	obj	119
+6	121	ad	ADP	ADP		ad	case	122
+6	122	O	NOUN	number		o	obl	119
+6	123	,	PUNCT	punc		,	punct	124
+6	124	Ρ.	PUNCT	punc		Ρ.	conj	104
+6	125	Et	CCONJ	conjunction		Et	cc	132
+6	126	quia	SCONJ	conjunction		quia	mark	132
+6	127	in	ADP	ADP		in	case	128
+6	128	triangulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	triangulus	obl	132
+6	129	AED	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	AED	nsubj	132
+6	130	AG	NOUN	noun		AGus	nmod	129
+6	131	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	132
+6	132	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	conj	104
+6	133	ad	ADP	ADP		ad	case	134
+6	134	ED	NOUN	noun		ED	obl	132
+6	135	,	PUNCT	punc		,	punct	140
+6	136	et	CCONJ	conjunction		et	cc	140
+6	137	DI	NOUN	noun		deus	nsubj	140
+6	138	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	140
+6	139	quoque	ADV	adverb		quoque	advmod	138
+6	140	perpendicularis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	perpendicularis	conj	132
+6	141	ad	ADP	ADP		ad	case	142
+6	142	AE	NOUN	noun		aE	obl	140
+6	143	,	PUNCT	punc		,	punct	148
+6	144	et	CCONJ	conjunction		et	cc	148
+6	145	iam	ADV	adverb		iam	advmod:emph	148
+6	146	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	148
+6	147	mutuo	ADV	adverb		mutuus	advmod	148
+6	148	secuerunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	seco	conj	132
+6	149	in	ADP	ADP		in	case	150
+6	150	M	NOUN	NOUN		Marcus	obl	148
+6	151	,	PUNCT	punc		,	punct	132
+6	152	ergo	ADV	conjunction		ergo	advmod	156
+6	153	EMO	ADV	verb		emo	advmod	156
+6	154	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	156
+6	155	etiam	ADV	conjunction		etiam	advmod:emph	156
+6	156	perpendicularis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	perpendicularis	conj	104
+6	157	,	PUNCT	punc		,	punct	159
+6	158	quemadmodum	SCONJ	adverb		quemadmodum	mark	159
+6	159	ostendimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ostendo	advcl:cmp	156
+6	160	in	ADP	ADP		in	case	161
+6	161	expositione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	expositio	obl	159
+6	162	,	PUNCT	punc		,	punct	164
+6	163	quam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing	qui	obj	164
+6	164	confecimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	conficio	acl:relcl	156
+6	165	de	ADP	ADP		de	case	166
+6	166	proprietatibus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	proprietas	obl	164
+6	167	triangu	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	triangus	nmod	168
+6	168	orum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	os	obj	164
+6	169	,	PUNCT	punc		,	punct	175
+6	170	et	CCONJ	conjunction		et	cc	175
+6	171	cuius	PRON	pronoun	Case=Gen|Gender=Neut|Number=Sing	qui	nmod	172
+6	172	demonstratio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	demonstratio	nsubj	175
+6	173	iam	ADV	adverb		iam	advmod:tmod	175
+6	174	quidem	PART	particle		quidem	discourse	175
+6	175	praecessit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	praecedo	conj	156
+6	176	in	ADP	ADP		in	case	178
+6	177	superiori	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	superior	amod	178
+6	178	propositione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	propositio	obl	175
+6	179	;	PUNCT	punc		;	punct	104
+6	180	similiter	ADV	adverb		similiter	advmod	184
+6	181	quoque	ADV	adverb		quoque	advmod	184
+6	182	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	183
+6	183	FΡ	NOUN	X		FΡ	nsubj	184
+6	184	perpendicularis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	perpendicularis	ROOT	184
+6	185	super	ADP	ADP		super	case	186
+6	186	CA	NOUN	pronoun		CA	obl	184
+6	187	.	PUNCT	punc		.	punct	184
+6	188	Et	CCONJ	conjunction		et	cc	204
+6	189	quia	SCONJ	conjunction		quia	mark	201
+6	190	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	191
+6	191	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	201
+6	192	,	PUNCT	punc		,	punct	196
+6	193	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	196
+6	194	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	196
+6	195	apud	ADP	ADP		apud	case	196
+6	196	L	NOUN	NOUN		Lucius	acl:relcl	191
+6	197	et	CCONJ	conjunction		et	cc	198
+6	198	B	NOUN	NOUN		Bornellum	conj	196
+6	199	,	PUNCT	punc		,	punct	191
+6	200	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	201
+6	201	recti	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	advcl	204
+6	202	,	PUNCT	punc		,	punct	201
+6	203	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	204
+6	204	DL	NOUN	adjective		DLucius	ROOT	204
+6	205	parallela	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	parallelus	amod	204
+6	206	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	207
+6	207	AB	NOUN	ADP		AB	obl:arg	205
+6	208	,	PUNCT	punc		,	punct	211
+6	209	et	CCONJ	conjunction		et	cc	211
+6	210	pariter	ADV	adverb		pariter	advmod	211
+6	211	DΙ	NOUN	X		DΙ	conj	205
+6	212	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	213
+6	213	CB	NOUN	NOUN		CB	orphan	211
+6	214	;	PUNCT	punc		;	punct	204
+6	215	igitur	PART	adverb		igitur	discourse	219
+6	216	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	nsubj	219
+6	217	AD	ADP	ADP		AD	case	219
+6	218	ad	ADP	ADP		ad	case	219
+6	219	DC	NOUN	adjective		DC	ROOT	219
+6	220	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	219
+6	221	,	PUNCT	punc		,	punct	223
+6	222	ut	SCONJ	adverb		ut	mark	223
+6	223	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	advcl	219
+6	224	AM	NOUN	noun		AM	nmod	223
+6	225	ad	ADP	ADP		ad	case	226
+6	226	FM	NOUN	noun		FM	nmod	223
+6	227	,	PUNCT	punc		,	punct	228
+6	228	immo	ADV	adverb		immo	orphan	223
+6	229	ut	SCONJ	adverb		ut	mark	230
+6	230	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	advcl:cmp	228
+6	231	AO	NOUN	noun		AO	nmod	230
+6	232	ad	ADP	ADP		ad	case	233
+6	233	OP	NOUN	noun		OP	orphan	230
+6	234	,	PUNCT	punc		,	punct	236
+6	235	et	CCONJ	conjunction		et	cc	236
+6	236	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	conj	223
+6	237	CD	NOUN	noun		CD	nmod	236
+6	238	ad	ADP	ADP		ad	case	239
+6	239	DA	NOUN	noun		DA	orphan	236
+6	240	,	PUNCT	punc		,	punct	242
+6	241	ut	SCONJ	adverb		ut	mark	242
+6	242	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	advcl	219
+6	243	ΟΡ	X	X		ΟΡ	nmod	242
+6	244	,	PUNCT	punc		,	punct	245
+6	245	CN	NOUN	X		CN	advcl:cmp	242
+6	246	ad	ADP	ADP		ad	case	247
+6	247	NE	NOUN	noun		ne	obl:arg	245
+6	248	,	PUNCT	punc		,	punct	251
+6	249	immo	ADV	adverb		immo	orphan	251
+6	250	ut	SCONJ	adverb		ut	mark	251
+6	251	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	orphan	242
+6	252	CΡ	NOUN	X		CΡ	nmod	251
+6	253	ad	ADP	ADP		ad	case	254
+6	254	ΡΟ	X	X		ΡΟ	nmod	251
+6	255	.	PUNCT	punc		.	punct	219
+6	256	Et	CCONJ	conjunction		et	cc	259
+6	257	erat	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	sum	cop	259
+6	258	AD	ADP	ADP		AD	case	259
+6	259	sesquialtera	PROPN	noun	Case=Acc|Gender=Neut|Number=Plur	sesquialter	ROOT	259
+6	260	D	NOUN	NOUN		Decimus	nsubj	259
+6	261	C	NOUN	NOUN		C	nummod	260
+6	262	;	PUNCT	punc		;	punct	259
+6	263	er	INTJ	ADP		er	nsubj	264
+6	264	go	NOUN	pronoun		go	advcl	267
+6	265	AO	NOUN	noun		AO	conj	264
+6	266	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	267
+6	267	sesquialtera	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	sesquialter	ROOT	267
+6	268	OP	NOUN	noun		OP	nsubj	267
+6	269	et	CCONJ	conjunction		et	cc	270
+6	270	OΡ	X	X		OΡ	conj	267
+6	271	sesquialtera	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	sesquialter	orphan	270
+6	272	CΡ	NOUN	X		CΡ	nsubj	271
+6	273	.	PUNCT	punc		.	punct	267
+6	274	Ergotres	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part	Ergotres	nsubj	282
+6	275	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nmod	274
+6	276	AO	NOUN	noun		AO	nmod	275
+6	277	,	PUNCT	punc		,	punct	278
+6	278	OΡ	NOUN	X		OΡ	conj	275
+6	279	,	PUNCT	punc		,	punct	280
+6	280	ΡC	X	X		ΡC	conj	278
+6	281	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	282
+6	282	proportionales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	proportionalis	ROOT	282
+6	283	,	PUNCT	punc		,	punct	284
+6	284	et	CCONJ	conjunction		et	cc	296
+6	285	in	ADP	ADP		in	case	287
+6	286	eadem	DET	adjective	Case=Abl|Gender=Fem|Number=Sing	idem	det	287
+6	287	mensura	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	mensura	obl	296
+6	288	,	PUNCT	punc		,	punct	290
+6	289	in	ADP	ADP		in	case	290
+6	290	qua	PRON	pronoun	Case=Abl|Gender=Fem|Number=Sing	qui	acl:relcl	287
+6	291	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	292
+6	292	PC	NOUN	adverb		PC	nsubj	290
+6	293	quattuor	NUM	number		quattuor	nummod	292
+6	294	,	PUNCT	punc		,	punct	287
+6	295	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	296
+6	296	OΡ	NOUN	X		OΡ	conj	282
+6	297	sex	NUM	number		sex	nummod	296
+6	298	et	CCONJ	conjunction		et	cc	299
+6	299	AO	NOUN	noun		AO	conj	296
+6	300	nonem	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	nonis	nsubj	299
+6	301	et	CCONJ	conjunction		et	cc	303
+6	302	CA	NOUN	conjunction		CA	advmod	303
+6	303	nouendecim	NUM	number		nouendecim	conj	300
+6	304	.	PUNCT	punc		.	punct	282
+6	305	Et	CCONJ	conjunction		et	cc	313
+6	306	quia	SCONJ	conjunction		quia	mark	308
+6	307	ΡO	X	X		ΡO	nsubj	308
+6	308	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	advcl	313
+6	309	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	308
+6	310	EF	NOUN	noun		EF	obl	308
+6	311	,	PUNCT	punc		,	punct	308
+6	312	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	313
+6	313	propotio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	propotio	ROOT	313
+6	314	AC	CCONJ	conjunction		AC	mark	316
+6	315	ad	ADP	ADP		ad	case	316
+6	316	EF	NOUN	noun		EF	advcl:cmp	313
+6	317	ut	SCONJ	adverb		ut	mark	318
+6	318	nouendecim	NUM	number		nouendecim	advcl:cmp	313
+6	319	ad	ADP	ADP		ad	case	320
+6	320	sex.	PUNCT	punc		sex.	punct	313
+6	321	lgitur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	lgitur	ROOT	321
+6	322	reperimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	reperio	csubj:pass	321
+6	323	dictam	VERB	verb	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	dico	acl	324
+6	324	proportionem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	proportio	obj	322
+6	325	.	PUNCT	punc		.	punct	321
+6	326	Etiam	ADV	conjunction		etiam	advmod:emph	331
+6	327	si	SCONJ	conjunction		si	mark	331
+6	328	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	331
+6	329	AD	ADP	ADP		AD	case	331
+6	330	ad	ADP	preposition		ad	case	331
+6	331	DC	NUM	number		DC	advcl	343
+6	332	qualiscun	DET	adjective	Case=Nom|Gender=Fem|Number=Sing	qualiscun	nsubj	331
+6	333	que	DET	adjective	Case=Nom|Gender=Fem|Number=Sing	que	conj	331
+6	334	,	PUNCT	punc		,	punct	336
+6	335	ut	SCONJ	conjunction		ut	mark	336
+6	336	sesquitertia	NOUN	adjective	Case=Nom|Gender=Fem|Number=Sing	sesquitertia	advcl:cmp	331
+6	337	aut	CCONJ	conjunction		aut	mark	336
+6	338	sesquiquarta	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	sesquiquartus	conj	336
+6	339	aut	CCONJ	conjunction		aut	cc	340
+6	340	alia	DET	adjective	Case=Nom|Gender=Fem|Number=Sing	alius	conj	336
+6	341	,	PUNCT	punc		,	punct	331
+6	342	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	343
+6	343	iudicium	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	iudicium	nsubj:pass	347
+6	344	et	CCONJ	conjunction		et	cc	345
+6	345	ratio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	ratio	conj	343
+6	346	uti	SCONJ	verb		utor	csubj	343
+6	347	dictum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	dico	ROOT	347
+6	348	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	347
+6	349	.	PUNCT	punc		.	punct	347
+6	350	Et	CCONJ	conjunction		et	cc	354
+6	351	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	354
+6	352	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	354
+6	353	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	354
+6	354	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	uolo	ROOT	354
+6	355	.	PUNCT	punc		.	punct	354
+7	0	7	NUM	number		7	ROOT	0
+7	1	.	PUNCT	punc		.	punct	0
+7	2	Si	SCONJ	conjunction		si	mark	7
+7	3	circul	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circul	nsubj:pass	7
+7	4	us	DET	pronoun	Case=Nom|Gender=Masc|Number=Sing	us	det	3
+7	5	circa	ADP	preposition		circa	case	6
+7	6	quadratum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	quadratum	obl	7
+7	7	descriptus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	describo	advcl	17
+7	8	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	aux:pass	7
+7	9	,	PUNCT	punc		,	punct	11
+7	10	et	CCONJ	conjunction		et	cc	11
+7	11	alius	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	alius	conj	7
+7	12	intra	ADP	preposition		intra	case	13
+7	13	illum	DET	adjective	Case=Acc|Gender=Masc|Number=Sing	ille	orphan	11
+7	14	,	PUNCT	punc		,	punct	7
+7	15	utique	ADV	adverb		utique	advmod	17
+7	16	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	aux:pass	17
+7	17	circumscriptus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	circumscribo	ROOT	17
+7	18	duplus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	duplus	xcomp	17
+7	19	inscripti	VERB	verb	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	inscribo	acl	18
+7	20	.	PUNCT	punc		.	punct	17
+7	21	Sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	28
+7	22	itaque	PART	particle		itaque	dep	28
+7	23	circulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circulus	nsubj	28
+7	24	comprehendens	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	comprehendo	acl	23
+7	25	quadratum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	quadratum	obj	24
+7	26	AB	ADP	preposition		AB	case	27
+7	27	circulus	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	circulus	obl:arg	24
+7	28	AB	ADP	preposition		AB	ROOT	28
+7	29	et	CCONJ	conjunction		et	cc	28
+7	30	inscriptus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	inscribo	parataxis	28
+7	31	CD	NOUN	number		CD	obl	30
+7	32	,	PUNCT	punc		,	punct	33
+7	33	et	CCONJ	conjunction		et	mark	28
+7	34	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	35
+7	35	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	conj	28
+7	36	quadrati	VERB	noun	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	quadratus	acl	35
+7	37	AB	ADP	preposition		AB	advmod	35
+7	38	,	PUNCT	punc		,	punct	41
+7	39	et	CCONJ	conjunction		et	cc	41
+7	40	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	41
+7	41	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	conj	28
+7	42	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	41
+7	43	circumscripti	VERB	verb	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	circumscripti	acl	42
+7	44	,	PUNCT	punc		,	punct	46
+7	45	et	CCONJ	conjunction		et	cc	46
+7	46	educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	conj	28
+7	47	CD	NOUN	conjunction		CD	obj	46
+7	48	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	obj	47
+7	49	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	48
+7	50	inscripti	VERB	verb	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	inscripti	acl	49
+7	51	parallelam	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	parallelus	amod	47
+7	52	ipsi	DET	determiner	Case=Dat|Gender=Fem|Number=Sing	ipse	det	53
+7	53	AE	NOUN	noun	Case=Dat|Gender=Fem|Number=Sing	AE	obl:arg	51
+7	54	,	PUNCT	punc		,	punct	58
+7	55	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	qui	nsubj	58
+7	56	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	58
+7	57	ei	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3	is	nmod	58
+7	58	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	acl:relcl	51
+7	59	.	PUNCT	punc		.	punct	28
+7	60	Et	CCONJ	conjunction		et	cc	79
+7	61	quia	SCONJ	conjunction		quia	mark	66
+7	62	quadratum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	quadro	csubj:pass	66
+7	63	AB	ADP	preposition		AB	case	64
+7	64	duplum	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	duplus	obl	66
+7	65	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	66
+7	66	quadrati	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	quadratus	advcl	79
+7	67	AE	NOUN	noun		AE	advmod	66
+7	68	siue	CCONJ	conjunction		siue	cc	69
+7	69	DC	NUM	number		DC	conj	67
+7	70	,	PUNCT	punc		,	punct	78
+7	71	et	CCONJ	conjunction		et	cc	78
+7	72	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	nsubj	78
+7	73	quadratorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	quadratum	nmod	72
+7	74	ex	ADP	preposition		ex	case	75
+7	75	diametris	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	diametros	nmod	72
+7	76	circulorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	circulus	nmod	75
+7	77	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	78
+7	78	eadem	DET	adjective	Case=Nom|Gender=Fem|Number=Sing	idem	det	79
+7	79	proportioni	NOUN	noun	Case=Dat|Gender=Fem|Number=Sing	proportio	advcl	87
+7	80	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	79
+7	81	ad	ADP	preposition		ad	case	82
+7	82	circulum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	circulus	nmod	79
+7	83	,	PUNCT	punc		,	punct	79
+7	84	igitur	PART	particle		igitur	discourse	87
+7	85	circulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circulus	nsubj	87
+7	86	AB	ADP	preposition		AB	case	87
+7	87	duplus	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	duplus	ROOT	87
+7	88	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	87
+7	89	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	87
+7	90	CD	NOUN	conjunction		CD	advmod	87
+7	91	.	PUNCT	punc		.	punct	87
+7	92	Et	CCONJ	conjunction		et	cc	96
+7	93	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	96
+7	94	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	96
+7	95	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	96
+7	96	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	uolo	ROOT	96
+7	97	.	PUNCT	punc		.	punct	96
+8	0	8	NUM	number		8	ROOT	0
+8	1	.	PUNCT	punc		.	punct	0
+8	2	Si	SCONJ	conjunction		si	mark	3
+8	3	egrediatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	egredior	advcl	42
+8	4	in	ADP	ADP		in	case	5
+8	5	circulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	circulus	obl	3
+8	6	linea	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	linea	nsubj	3
+8	7	AB	ADP	ADP		AB	case	8
+8	8	ubicun	ADV	adverb		ubicun	advmod:lmod	3
+8	9	que	ADV	adverb		que	orphan	8
+8	10	et	CCONJ	conjunction		et	cc	11
+8	11	producatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	produco	conj	3
+8	12	in	ADP	ADP		in	case	13
+8	13	directum	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	directus	obl	11
+8	14	,	PUNCT	punc		,	punct	16
+8	15	et	CCONJ	conjunction		et	cc	16
+8	16	ponatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	pono	conj	3
+8	17	BC	NOUN	number		BC	nsubj:pass	16
+8	18	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	xcomp	16
+8	19	semidiametro	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	semidiametrus	nmod	18
+8	20	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	19
+8	21	,	PUNCT	punc		,	punct	23
+8	22	et	CCONJ	conjunction		et	cc	23
+8	23	iungatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	iungo	conj	3
+8	24	ex	ADP	ADP		ex	case	25
+8	25	C	NOUN	NOUN		C	obl	23
+8	26	ad	ADP	ADP		ad	case	27
+8	27	centrum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	centrum	obl	23
+8	28	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	27
+8	29	,	PUNCT	punc		,	punct	32
+8	30	quod	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing	qui	nsubj	32
+8	31	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	32
+8	32	D	NOUN	NOUN		Decimus	acl:relcl	27
+8	33	,	PUNCT	punc		,	punct	35
+8	34	et	CCONJ	conjunction		et	cc	35
+8	35	producatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	produco	conj	3
+8	36	ad	ADP	ADP		ad	case	37
+8	37	E	NOUN	NOUN		E	obl:arg	35
+8	38	,	PUNCT	punc		,	punct	3
+8	39	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	42
+8	40	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	nsubj	42
+8	41	AE	NOUN	adverb		AE	nmod	40
+8	42	triplus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	triplus	amod	43
+8	43	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	ROOT	43
+8	44	BF	NOUN	proper_noun		BF	nummod	43
+8	45	.	PUNCT	punc		.	punct	43
+8	46	Educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	ROOT	46
+8	47	igitur	PART	particle		igitur	discourse	46
+8	48	EG	NOUN	pronoun		EG	obj	46
+8	49	parallelam	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	parallelus	xcomp	46
+8	50	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	obl:arg	46
+8	51	AB	NOUN	ADP		AB	advmod	50
+8	52	,	PUNCT	punc		,	punct	54
+8	53	et	CCONJ	conjunction		et	cc	54
+8	54	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	conj	46
+8	55	DB	NOUN	adverb		DB	obj	54
+8	56	,	PUNCT	punc		,	punct	57
+8	57	DG	NOUN	proper_noun		DG	conj	55
+8	58	,	PUNCT	punc		,	punct	59
+8	59	et	CCONJ	conjunction		et	cc	72
+8	60	quia	SCONJ	conjunction		quia	mark	67
+8	61	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	62
+8	62	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	67
+8	63	DEG	NOUN	verb		DEG	amod	62
+8	64	,	PUNCT	punc		,	punct	65
+8	65	DGE	NOUN	verb		DGE	appos	62
+8	66	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	67
+8	67	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	advcl	72
+8	68	,	PUNCT	punc		,	punct	67
+8	69	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	72
+8	70	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	72
+8	71	GDC	ADJ	proper_noun		GDC	nmod	70
+8	72	duplus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	duplus	conj	46
+8	73	anguli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	angulus	nmod	72
+8	74	DEG	ADJ	noun		DEG	nmod	72
+8	75	.	PUNCT	punc		.	punct	46
+8	76	Et	CCONJ	conjunction		et	cc	95
+8	77	quia	SCONJ	conjunction		quia	mark	79
+8	78	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	79
+8	79	BDC	NOUN	adverb		BDC	advcl	95
+8	80	aequa	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequus	amod	79
+8	81	is	NOUN	pronoun		is	nsubj	80
+8	82	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	80
+8	83	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	obl	80
+8	84	BCD	NOUN	adverb		BCD	amod	83
+8	85	,	PUNCT	punc		,	punct	89
+8	86	et	CCONJ	conjunction		et	cc	89
+8	87	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	89
+8	88	CEG	NOUN	verb		CEG	nmod	87
+8	89	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	79
+8	90	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	89
+8	91	angulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	angulo	nmod	89
+8	92	ACE	NOUN	noun		aceo	nmod	91
+8	93	,	PUNCT	punc		,	punct	79
+8	94	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	95
+8	95	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	97
+8	96	GDC	ADJ	proper_noun		GDC	nmod	95
+8	97	duplus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	duplus	ROOT	97
+8	98	anguli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	angulus	nmod	99
+8	99	CDB	ADJ	adverb		CDB	nmod	97
+8	100	et	CCONJ	conjunction		et	cc	105
+8	101	totus	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	totus	det	102
+8	102	angu	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angu	nsubj	105
+8	103	us	PRON	adjective	Case=Nom|Number=Sing|Person=1	us	flat	102
+8	104	BDG	NOUN	adverb		BDG	appos	103
+8	105	triplus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	triplus	conj	97
+8	106	anguli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	angulus	nmod	107
+8	107	BDC	NOUN	adverb		BDC	nmod	105
+8	108	.	PUNCT	punc		.	punct	97
+8	109	et	CCONJ	conjunction		et	cc	113
+8	110	arc	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arc	nsubj	113
+8	111	us	ADJ	pronoun		us	flat	110
+8	112	BG	NOUN	adverb		BG	appos	111
+8	113	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	113
+8	114	arcui	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	arceo	nmod	113
+8	115	AE	NOUN	noun		AE	nmod	114
+8	116	triplus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	triplus	conj	113
+8	117	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	116
+8	118	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	nsubj	116
+8	119	BF	NOUN	proper_noun		BF	amod	118
+8	120	.	PUNCT	punc		.	punct	113
+8	121	Et	CCONJ	conjunction		et	cc	125
+8	122	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	125
+8	123	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	125
+8	124	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	125
+8	125	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	nolo	ROOT	125
+8	126	.	PUNCT	punc		.	punct	125
+9	0	9	NUM	number		9	ROOT	0
+9	1	.	PUNCT	punc		.	punct	0
+9	2	Si	SCONJ	conjunction		si	mark	5
+9	3	mutuo	ADV	adverb		mutuus	advmod	5
+9	4	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	5
+9	5	secuerint	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	seco	advcl	30
+9	6	in	ADP	preposition		in	case	7
+9	7	circulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	circulus	obl	5
+9	8	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	9
+9	9	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nsubj	5
+9	10	AB	NOUN	preposition		AB	appos	9
+9	11	,	PUNCT	punc		,	punct	12
+9	12	CD	NOUN	noun		CD	nsubj	5
+9	13	(	PUNCT	punc		(	punct	17
+9	14	sed	CCONJ	conjunction		sed	cc	17
+9	15	non	PART	particle		non	advmod:neg	17
+9	16	in	ADP	preposition		in	case	17
+9	17	centro	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	centrum	conj	12
+9	18	)	PUNCT	punc		)	punct	17
+9	19	ad	ADP	preposition		ad	case	20
+9	20	angulos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	angulus	obl	5
+9	21	rectos	VERB	verb	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	20
+9	22	,	PUNCT	punc		,	punct	30
+9	23	utique	ADV	adverb		utique	advmod	30
+9	24	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	25
+9	25	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	arcus	nsubj	30
+9	26	AD	NOUN	preposition		AD	appos	25
+9	27	,	PUNCT	punc		,	punct	28
+9	28	CB	NOUN	conjunction		CB	conj	25
+9	29	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	30
+9	30	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	30
+9	31	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	32
+9	32	arcubus	NOUN	noun	Case=Dat|Gender=Masc|Number=Plur	arcus	nmod	30
+9	33	AC	NOUN	conjunction		AC	nummod	32
+9	34	,	PUNCT	punc		,	punct	35
+9	35	DB	NOUN	noun		DB	appos	32
+9	36	.	PUNCT	punc		.	punct	30
+9	37	Educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	ROOT	37
+9	38	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	obj	37
+9	39	EF	NOUN	verb		EF	nmod	38
+9	40	parallelam	VERB	adjective	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	parallelus	acl	38
+9	41	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	obl:arg	40
+9	42	AB	NOUN	preposition		AB	advmod	40
+9	43	,	PUNCT	punc		,	punct	45
+9	44	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	qui	nsubj	45
+9	45	secet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	seco	acl:relcl	38
+9	46	CD	NOUN	number		CD	obl	45
+9	47	bifariam	ADJ	proper_noun	Case=Acc|Gender=Fem|Number=Sing	bifaria	amod	46
+9	48	in	ADP	preposition		in	case	49
+9	49	G	NOUN	NOUN		Gherardesca	obl	45
+9	50	;	PUNCT	punc		;	punct	37
+9	51	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	53
+9	52	EC	NOUN	pronoun		EC	nsubj	53
+9	53	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	53
+9	54	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	55
+9	55	ED	NOUN	noun		ED	nmod	53
+9	56	.	PUNCT	punc		.	punct	53
+9	57	Et	CCONJ	conjunction		et	cc	79
+9	58	quia	SCONJ	conjunction		quia	mark	65
+9	59	tam	ADV	adverb		tam	advmod:emph	65
+9	60	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	nsubj	65
+9	61	EDF	ADJ	adverb		EDF	amod	60
+9	62	quam	SCONJ	conjunction		quam	mark	63
+9	63	ECF	ADJ	adverb		ECF	advcl:cmp	61
+9	64	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	65
+9	65	semicirculus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	advcl	79
+9	66	,	PUNCT	punc		,	punct	70
+9	67	et	CCONJ	conjunction		et	cc	70
+9	68	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	orphan	70
+9	69	ED	ADV	conjunction		ED	flat	68
+9	70	aequa	NOUN	adjective	Case=Nom|Gender=Fem|Number=Sing	aequus	conj	65
+9	71	is	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing|Person=3	is	orphan	70
+9	72	arcui	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	arceo	nmod	71
+9	73	EA	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3	is	det	72
+9	74	cum	ADP	preposition		cum	case	75
+9	75	arcu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	arcus	nmod	71
+9	76	AD	NOUN	preposition		AD	orphan	70
+9	77	,	PUNCT	punc		,	punct	65
+9	78	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	79
+9	79	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	ROOT	79
+9	80	CF	NOUN	adverb		CF	amod	79
+9	81	cum	ADP	preposition		cum	case	83
+9	82	duobus	NUM	number	Case=Abl|Gender=Masc|Number=Plur	duo	nummod	83
+9	83	arcubus	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	arcus	obl	79
+9	84	EA	PRON	pronoun	Case=Abl|Gender=Fem|Number=Sing|Person=3	is	det	83
+9	85	,	PUNCT	punc		,	punct	87
+9	86	AD	ADP	preposition		AD	case	87
+9	87	aequalis	ADJ	adjective	Case=Acc|Gender=Masc|Number=Plur	aequalis	obl	79
+9	88	semicirculo	NOUN	noun	Case=Dat|Gender=Neut|Number=Sing	semicirculus	nmod	87
+9	89	.	PUNCT	punc		.	punct	79
+9	90	Et	CCONJ	conjunction		et	cc	93
+9	91	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	nsubj	93
+9	92	EA	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3	is	det	91
+9	93	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	93
+9	94	arcui	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	arceo	nmod	93
+9	95	BF	NOUN	proper_noun		BF	nummod	94
+9	96	;	PUNCT	punc		;	punct	93
+9	97	ergo	ADV	conjunction		ergo	advmod	103
+9	98	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	nsubj	103
+9	99	CB	NOUN	conjunction		CB	nmod	98
+9	100	cum	ADP	preposition		cum	case	101
+9	101	arcu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	arcus	nmod	99
+9	102	AD	ADP	preposition		AD	case	99
+9	103	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	103
+9	104	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	103
+9	105	semicirculo	NOUN	noun	Case=Dat|Gender=Neut|Number=Sing	semicirculus	nmod	103
+9	106	.	PUNCT	punc		.	punct	103
+9	107	Et	CCONJ	conjunction		et	cc	108
+9	108	remanent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	108
+9	109	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	110
+9	110	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	arcus	nsubj	108
+9	111	EC	NOUN	pronoun		EC	amod	110
+9	112	,	PUNCT	punc		,	punct	113
+9	113	EA	PRON	pronoun	Case=Nom|Gender=Neut|Number=Plur|Person=3	is	appos	110
+9	114	,	PUNCT	punc		,	punct	116
+9	115	nempe	ADV	adverb		nempe	discourse	116
+9	116	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	conj	108
+9	117	AC	NOUN	conjunction		AC	nummod	116
+9	118	,	PUNCT	punc		,	punct	121
+9	119	cum	ADP	conjunction		cum	case	120
+9	120	arcu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	arcus	nmod	121
+9	121	DB	NOUN	adverb		DB	nmod	116
+9	122	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	108
+9	123	illi	DET	adjective	Case=Dat|Gender=Neut|Number=Sing	ille	nmod	122
+9	124	.	PUNCT	punc		.	punct	108
+9	125	Et	CCONJ	conjunction		et	cc	129
+9	126	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj	129
+9	127	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	129
+9	128	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	129
+9	129	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	uolo	ROOT	129
+9	130	.	PUNCT	punc		.	punct	129
+10	0	10	NUM	number		10	ROOT	0
+10	1	.	PUNCT	punc		.	punct	0
+10	2	Si	SCONJ	conjunction		si	mark	7
+10	3	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	advcl:cmp	7
+10	4	circulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circulus	nsubj	3
+10	5	AΒC	NOUN	X		AΒC	amod	4
+10	6	et	CCONJ	conjunction		et	cc	5
+10	7	DA	NOUN	noun		DA	advcl	20
+10	8	tangens	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	tango	acl	7
+10	9	illum	DET	adjective	Case=Acc|Gender=Masc|Number=Sing	ille	obj	8
+10	10	et	CCONJ	conjunction		et	advmod:emph	11
+10	11	DB	NOUN	adverb		DB	appos	7
+10	12	secans	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	seco	acl	11
+10	13	illum	DET	adjective	Case=Acc|Gender=Masc|Number=Sing	ille	obj	12
+10	14	et	CCONJ	conjunction		et	cc	17
+10	15	DC	NOUN	number		DC	advmod	17
+10	16	etiam	ADV	conjunction		etiam	advmod:emph	17
+10	17	tangens	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	tango	conj	11
+10	18	,	PUNCT	punc		,	punct	7
+10	19	et	CCONJ	conjunction		et	advmod:emph	20
+10	20	educta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	educo	advcl	48
+10	21	fueri	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	fueri	aux:pass	20
+10	22	CE	NOUN	pronoun		CE	nsubj:pass	20
+10	23	parallela	ADJ	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	parallelus	csubj:pass	20
+10	24	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	25
+10	25	DB	NOUN	adverb		DB	obl:arg	23
+10	26	,	PUNCT	punc		,	punct	28
+10	27	et	CCONJ	conjunction		et	cc	28
+10	28	iuncta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	iunctus	conj	20
+10	29	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	aux:pass	28
+10	30	EA	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3	is	nsubj:pass	28
+10	31	secans	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	seco	xcomp	28
+10	32	DB	NOUN	noun		DB	obj	31
+10	33	in	ADP	preposition		in	case	34
+10	34	F	NOUN	NOUN		f	obl	31
+10	35	,	PUNCT	punc		,	punct	37
+10	36	et	CCONJ	conjunction		et	cc	37
+10	37	educta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	educo	conj	20
+10	38	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	aux:pass	37
+10	39	ex	ADP	ADP		ex	case	40
+10	40	F	NOUN	NOUN		f	obl:arg	37
+10	41	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	amod	42
+10	42	FG	NOUN	NOUN		FG	flat	40
+10	43	super	ADP	ADP		super	case	44
+10	44	CE	NOUN	pronoun		CE	obl	37
+10	45	,	PUNCT	punc		,	punct	20
+10	46	utique	ADV	adverb		utique	advmod	48
+10	47	bifariam	PROPN	proper_noun	Case=Acc|Gender=Fem|Number=Sing	bifaria	obj	48
+10	48	secabit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	seco	ROOT	48
+10	49	illam	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	ille	obj	48
+10	50	in	ADP	ADP		in	case	51
+10	51	G.	PUNCT	punc		G.	obl	48
+10	52	lungamus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	lungamus	conj	48
+10	53	AC	CCONJ	conjunction		AC	obj	52
+10	54	.	PUNCT	punc		.	punct	48
+10	55	Et	CCONJ	conjunction		et	cc	68
+10	56	quia	SCONJ	conjunction		quia	mark	59
+10	57	DA	NOUN	noun		DA	nsubj	59
+10	58	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux	59
+10	59	tangens	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	tango	advcl	68
+10	60	et	CCONJ	conjunction		et	cc	61
+10	61	AC	NOUN	conjunction		AC	conj	59
+10	62	secans	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	seco	conj	59
+10	63	circulum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	circulus	obj	62
+10	64	,	PUNCT	punc		,	punct	59
+10	65	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	68
+10	66	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	68
+10	67	DAC	NOUN	proper_noun		DAC	nmod	66
+10	68	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	68
+10	69	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	68
+10	70	cadenti	VERB	verb	Case=Dat|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	cado	acl	69
+10	71	in	ADP	preposition		in	case	73
+10	72	alterno	ADJ	adjective	Case=Abl|Gender=Neut|Number=Sing	alterno	amod	73
+10	73	segmento	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	segmentum	obl	68
+10	74	AC	NOUN	conjunction		AC	nmod	68
+10	75	,	PUNCT	punc		,	punct	77
+10	76	nempe	PART	adverb		nempe	orphan	77
+10	77	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	obl	68
+10	78	AEC	NOUN	adverb		AEC	nmod	77
+10	79	.	PUNCT	punc		.	punct	68
+10	80	Et	CCONJ	conjunction		et	cc	82
+10	81	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	82
+10	82	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	82
+10	83	angul	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angul	nsubj	82
+10	84	o	NOUN	number		o	advmod:emph	85
+10	85	AFD	NOUN	preposition		AFD	nmod	82
+10	86	,	PUNCT	punc		,	punct	87
+10	87	eo	PRON	pronoun	Case=Abl|Gender=Neut|Number=Sing|Person=3	is	obl	82
+10	88	quod	SCONJ	conjunction		quod	mark	89
+10	89	CE	NOUN	pronoun		CE	nsubj	94
+10	90	,	PUNCT	punc		,	punct	94
+10	91	BD	NOUN	adverb		BD	nsubj	94
+10	92	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	94
+10	93	parall	ADV	adjective		parall	advmod	94
+10	94	elae	VERB	proper_noun	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ela	acl	87
+10	95	;	PUNCT	punc		;	punct	82
+10	96	ergo	ADV	conjunction		ergo	advmod	102
+10	97	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	102
+10	98	DAC	NOUN	proper_noun		DAC	nmod	97
+10	99	,	PUNCT	punc		,	punct	97
+10	100	AFD	NOUN	adverb		AFD	nsubj	102
+10	101	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	102
+10	102	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	102
+10	103	.	PUNCT	punc		.	punct	102
+10	104	Et	CCONJ	conjunction		et	cc	108
+10	105	in	ADP	ADP		in	case	106
+10	106	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	108
+10	107	triangulis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	triangulus	amod	108
+10	108	DAF	NOUN	proper_noun		DAF	ROOT	108
+10	109	,	PUNCT	punc		,	punct	110
+10	110	AHD	NOUN	adverb		AHD	conj	108
+10	111	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	110
+10	112	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	113
+10	113	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	110
+10	114	AFD	ADJ	verb		AFD	amod	113
+10	115	,	PUNCT	punc		,	punct	117
+10	116	HAD	INTJ	adjective		HAD	cop	117
+10	117	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	108
+10	118	,	PUNCT	punc		,	punct	120
+10	119	et	CCONJ	conjunction		et	cc	120
+10	120	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	conj	108
+10	121	D	NOUN	NOUN		Decimus	nummod	120
+10	122	com	ADP	ADP		cum	case	123
+10	123	m	NOUN	NOUN		m	nmod	121
+10	124	unis	NUM	adjective	Case=Dat|Gender=Masc|Number=Plur	unus	nmod	123
+10	125	;	PUNCT	punc		;	punct	108
+10	126	propterea	ADV	adverb		propterea	advmod	132
+10	127	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	132
+10	128	rectangulum	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	rectangulus	amod	132
+10	129	FD	NOUN	adverb		FD	nmod	128
+10	130	in	ADP	ADP		in	case	131
+10	131	DH	NOUN	pronoun		DH	obl:arg	128
+10	132	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	ROOT	132
+10	133	quadrato	VERB	noun	Case=Dat|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	quadro	nmod	132
+10	134	DA	NOUN	verb		DA	nmod	133
+10	135	,	PUNCT	punc		,	punct	137
+10	136	immo	ADV	adverb		immo	orphan	137
+10	137	quadrato	VERB	noun	Case=Dat|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	quadro	conj	132
+10	138	DC	NOUN	adverb		DC	orphan	137
+10	139	.	PUNCT	punc		.	punct	132
+10	140	Et	CCONJ	conjunction		et	cc	159
+10	141	quia	SCONJ	conjunction		quia	mark	147
+10	142	proportio	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	proportio	nsubj	147
+10	143	FD	NOUN	adverb		FD	nmod	142
+10	144	ad	ADP	ADP		ad	case	145
+10	145	DC	NOUN	adverb		DC	nmod	143
+10	146	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	147
+10	147	eadem	DET	adjective	Case=Nom|Gender=Fem|Number=Sing	idem	advcl	159
+10	148	proportioni	NOUN	noun	Case=Dat|Gender=Fem|Number=Sing	proportio	obl	147
+10	149	CD	NOUN	number		CD	nmod	148
+10	150	ad	ADP	ADP		ad	case	151
+10	151	DH	NOUN	proper_noun		DH	nmod	148
+10	152	,	PUNCT	punc		,	punct	154
+10	153	et	CCONJ	conjunction		et	cc	154
+10	154	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	conj	142
+10	155	D	NOUN	NOUN		Decimus	orphan	154
+10	156	comnunis	PROPN	adjective	Case=Abl|Gender=Fem|Number=Plur	comnunus	acl	154
+10	157	,	PUNCT	punc		,	punct	147
+10	158	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	159
+10	159	triangula	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	triangulus	ROOT	159
+10	160	DFC	NOUN	adverb		DFC	advmod	159
+10	161	,	PUNCT	punc		,	punct	162
+10	162	DCA	NOUN	adverb		DCA	conj	159
+10	163	similia	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	similis	amod	162
+10	164	,	PUNCT	punc		,	punct	168
+10	165	et	CCONJ	conjunction		et	cc	168
+10	166	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	168
+10	167	DFC	NOUN	adverb		DFC	nummod	166
+10	168	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	159
+10	169	DCΗ	NOUN	number		DCΗ	nmod	168
+10	170	,	PUNCT	punc		,	punct	172
+10	171	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing	qui	nsubj	172
+10	172	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	acl:relcl	168
+10	173	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	172
+10	174	angulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	angulo	nmod	172
+10	175	DAH	PROPN	proper_noun		DAH	nmod	174
+10	176	.	PUNCT	punc		.	punct	159
+10	177	Et	CCONJ	conjunction		et	cc	180
+10	178	hic	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	hic	nsubj	180
+10	179	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	180
+10	180	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	180
+10	181	angulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	angulo	nmod	180
+10	182	AFD	NOUN	adjective		AFD	nmod	181
+10	183	;	PUNCT	punc		;	punct	180
+10	184	ergo	ADV	adverb		ergo	advmod	191
+10	185	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	186
+10	186	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	191
+10	187	AFD	ADJ	adjective		AFD	appos	186
+10	188	,	PUNCT	punc		,	punct	189
+10	189	CFD	NOUN	conjunction		CFD	appos	186
+10	190	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	191
+10	191	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	191
+10	192	.	PUNCT	punc		.	punct	191
+10	193	Et	CCONJ	conjunction		et	cc	195
+10	194	DFC	NOUN	adverb		DFC	nsubj	195
+10	195	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	195
+10	196	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	195
+10	197	FCE	NOUN	proper_noun		FCE	nmod	196
+10	198	;	PUNCT	punc		;	punct	195
+10	199	et	CCONJ	conjunction		et	cc	202
+10	200	erat	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	sum	cop	202
+10	201	DFA	NOUN	adverb		DFA	nsubj	202
+10	202	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	202
+10	203	angulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	angulo	nmod	202
+10	204	AEC	ADJ	adverb		AEC	nmod	203
+10	205	;	PUNCT	punc		;	punct	202
+10	206	ergo	ADV	conjunction		ergo	advmod	208
+10	207	in	ADP	ADP		in	case	208
+10	208	triangulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	triangulus	ROOT	208
+10	209	FEC	ADV	pronoun		FEC	punct	208
+10	210	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	208
+10	211	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	212
+10	212	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	208
+10	213	C	NOUN	NOUN		C	nmod	212
+10	214	,	PUNCT	punc		,	punct	216
+10	215	E	NOUN	NOUN		Ex	advmod	216
+10	216	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	208
+10	217	et	CCONJ	conjunction		et	cc	219
+10	218	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	219
+10	219	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	conj	216
+10	220	G	NOUN	NOUN		Gherardesca	flat	219
+10	221	recti	VERB	verb	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	220
+10	222	et	CCONJ	conjunction		et	cc	223
+10	223	latus	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	latus	conj	216
+10	224	GE	NOUN	noun		GEus	amod	223
+10	225	commune	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	communis	amod	223
+10	226	;	PUNCT	punc		;	punct	208
+10	227	propterea	ADV	adverb		propterea	advmod	230
+10	228	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	230
+10	229	CG	NOUN	number		CG	nsubj	230
+10	230	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	ROOT	230
+10	231	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	232
+10	232	GE	NOUN	noun		GE	nmod	230
+10	233	.	PUNCT	punc		.	punct	230
+10	234	Ergo	ADV	adverb		ergo	discourse	237
+10	235	CE	NOUN	pronoun		CE	nmod	236
+10	236	bifariam	NOUN	proper_noun	Case=Acc|Gender=Fem|Number=Sing	bifaria	nsubj:pass	237
+10	237	secatur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	seco	ROOT	237
+10	238	in	ADP	ADP		in	case	239
+10	239	G.	PUNCT	punc		G.	punct	237
+10	240	Et	CCONJ	conjunction		et	cc	244
+10	241	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	244
+10	242	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	244
+10	243	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	244
+10	244	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	nolo	conj	237
+10	245	.	PUNCT	punc		.	punct	237
+11	0	11	NUM	number		11	ROOT	0
+11	1	.	PUNCT	punc		.	punct	0
+11	2	Si	SCONJ	conjunction		si	mark	5
+11	3	mutuo	ADV	adverb		mutuus	advmod	5
+11	4	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	5
+11	5	secuerint	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	secuerint	ROOT	5
+11	6	in	ADP	preposition		in	case	7
+11	7	circulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	circulus	obl	5
+11	8	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	9
+11	9	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nsubj	5
+11	10	AB	NOUN	preposition		AB	advmod	5
+11	11	,	PUNCT	punc		,	punct	10
+11	12	CD	NOUN	adverb		CD	advmod	5
+11	13	ad	ADP	preposition		ad	case	14
+11	14	angulos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	angulus	obl	5
+11	15	rectos	VERB	verb	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	14
+11	16	in	ADP	preposition		in	case	17
+11	17	Ε	NOUN	X		Ε	obl	5
+11	18	,	PUNCT	punc		,	punct	23
+11	19	quod	SCONJ	conjunction		quod	nsubj	23
+11	20	non	PART	particle		non	advmod:neg	23
+11	21	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	23
+11	22	in	ADP	preposition		in	case	23
+11	23	centro	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	centrum	acl:relcl	9
+11	24	,	PUNCT	punc		,	punct	27
+11	25	utique	ADV	adverb		utique	advmod	27
+11	26	omnia	DET	adjective	Case=Nom|Gender=Neut|Number=Plur	omnis	det	27
+11	27	quadrata	VERB	verb	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadro	conj	9
+11	28	AE	NOUN	noun		aE	nmod	27
+11	29	,	PUNCT	punc		,	punct	30
+11	30	BE	NOUN	verb		BE	conj	28
+11	31	,	PUNCT	punc		,	punct	32
+11	32	EC	NOUN	pronoun		EC	conj	28
+11	33	,	PUNCT	punc		,	punct	35
+11	34	ED	NOUN	conjunction		ED	cc	35
+11	35	aequalia	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	aequalis	advcl:cmp	5
+11	36	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	35
+11	37	quadrato	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	quadro	nmod	35
+11	38	diametri	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	diametrus	nmod	37
+11	39	.	PUNCT	punc		.	punct	5
+11	40	Educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	ROOT	40
+11	41	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	obj	40
+11	42	AF	NOUN	preposition		AF	obj	40
+11	43	,	PUNCT	punc		,	punct	45
+11	44	et	CCONJ	conjunction		et	cc	45
+11	45	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	conj	40
+11	46	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	obj	45
+11	47	AC	NOUN	conjunction		AC	advmod	45
+11	48	,	PUNCT	punc		,	punct	49
+11	49	AD	NOUN	preposition		AD	conj	47
+11	50	,	PUNCT	punc		,	punct	51
+11	51	CF	NOUN	noun		CF	conj	47
+11	52	,	PUNCT	punc		,	punct	53
+11	53	DB	NOUN	noun		DB	conj	47
+11	54	.	PUNCT	punc		.	punct	40
+11	55	Et	CCONJ	conjunction		et	cc	64
+11	56	quia	SCONJ	conjunction		quia	mark	61
+11	57	angul	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angul	nsubj	61
+11	58	us	NOUN	pronoun	Case=Nom|Gender=Masc|Number=Sing	us	nmod	57
+11	59	AED	NOUN	noun		AED	nmod	58
+11	60	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	61
+11	61	rectus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	reco	advcl	64
+11	62	,	PUNCT	punc		,	punct	61
+11	63	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	64
+11	64	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	64
+11	65	angulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	angulo	nmod	64
+11	66	ACF	ADJ	adjective		ACF	nmod	65
+11	67	.	PUNCT	punc		.	punct	64
+11	68	Et	CCONJ	conjunction		et	cc	71
+11	69	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	71
+11	70	ADC	NOUN	conjunction		ADC	nummod	69
+11	71	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	71
+11	72	AFC	ADJ	adjective		AFC	nmod	71
+11	73	,	PUNCT	punc		,	punct	74
+11	74	eo	PRON	pronoun	Case=Abl|Gender=Neut|Number=Sing|Person=3	is	obl	71
+11	75	quod	SCONJ	conjunction		quod	mark	78
+11	76	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	78
+11	77	super	ADP	preposition		super	case	78
+11	78	arcum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	arcus	acl	74
+11	79	AC	NOUN	conjunction		AC	nummod	78
+11	80	;	PUNCT	punc		;	punct	71
+11	81	et	CCONJ	conjunction		et	cc	82
+11	82	remanent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	82
+11	83	induobus	ADJ	adjective	Case=Dat|Gender=Masc|Number=Plur	induobus	obl	82
+11	84	triangulis	ADJ	adjective	Case=Abl|Gender=Masc|Number=Plur	triangulus	amod	83
+11	85	ADE	NOUN	proper_noun		ADE	nsubj	82
+11	86	,	PUNCT	punc		,	punct	87
+11	87	AFC	NOUN	adjective		AFC	advmod	82
+11	88	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	89
+11	89	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	82
+11	90	CAF	NOUN	noun		CAF	amod	89
+11	91	,	PUNCT	punc		,	punct	92
+11	92	DAE	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	DAE	appos	89
+11	93	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	amod	89
+11	94	;	PUNCT	punc		;	punct	82
+11	95	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	102
+11	96	pariter	ADV	adverb		pariter	advmod	102
+11	97	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	98
+11	98	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	arcus	nsubj	102
+11	99	CF	NOUN	noun		CF	amod	98
+11	100	,	PUNCT	punc		,	punct	101
+11	101	DB	NOUN	adverb		DB	conj	99
+11	102	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	102
+11	103	,	PUNCT	punc		,	punct	107
+11	104	immo	ADV	adverb		immo	advmod	107
+11	105	et	ADV	adverb		et	advmod:emph	107
+11	106	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	107
+11	107	chordeae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	chordeus	conj	102
+11	108	eorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur|Person=3	is	nmod	107
+11	109	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	amod	107
+11	110	.	PUNCT	punc		.	punct	102
+11	111	Et	CCONJ	conjunction		et	cc	117
+11	112	duo	NUM	number	Case=Nom|Gender=Neut|Number=Plur	duo	nummod	113
+11	113	quadrata	VERB	noun	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadratus	nsubj	117
+11	114	DE	NOUN	preposition		DE	case	116
+11	115	,	PUNCT	punc		,	punct	116
+11	116	EB	NOUN	conjunction		EB	advcl:cmp	113
+11	117	aequantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	aequo	ROOT	117
+11	118	quadrato	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	quadro	obl:arg	117
+11	119	BD	NOUN	noun		BD	nummod	118
+11	120	,	PUNCT	punc		,	punct	121
+11	121	nempe	PART	adverb		nempe	advmod:emph	122
+11	122	CF	NOUN	noun		CF	conj	117
+11	123	,	PUNCT	punc		,	punct	130
+11	124	et	CCONJ	conjunction		et	cc	130
+11	125	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	126
+11	126	quadrata	VERB	verb	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadratus	nsubj	130
+11	127	AE	NOUN	noun		AE	nmod	126
+11	128	,	PUNCT	punc		,	punct	129
+11	129	EC	NOUN	pronoun		EC	conj	126
+11	130	aequantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	aequo	conj	117
+11	131	quadrato	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	quadro	obl:arg	130
+11	132	CA	NOUN	adverb		CA	advmod	130
+11	133	,	PUNCT	punc		,	punct	136
+11	134	et	CCONJ	conjunction		et	cc	136
+11	135	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	136
+11	136	quadrata	VERB	noun	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadratus	nsubj	140
+11	137	CF	NOUN	noun		CF	advmod	136
+11	138	,	PUNCT	punc		,	punct	139
+11	139	CA	NOUN	pronoun		CA	advcl:cmp	136
+11	140	aequantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	aequo	acl	130
+11	141	quadrato	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	quadro	obl:arg	140
+11	142	FA	NOUN	noun		FA	nmod	141
+11	143	,	PUNCT	punc		,	punct	144
+11	144	nempe	PART	adverb		nempe	dep	140
+11	145	diametri	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	diametrus	orphan	144
+11	146	;	PUNCT	punc		;	punct	117
+11	147	igitur	PART	adverb		igitur	discourse	158
+11	148	quadrata	VERB	verb	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadro	csubj	158
+11	149	AE	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	AE	nmod	148
+11	150	,	PUNCT	punc		,	punct	151
+11	151	EB	NOUN	proper_noun		EB	conj	149
+11	152	,	PUNCT	punc		,	punct	153
+11	153	CE	NOUN	pronoun		CE	conj	149
+11	154	,	PUNCT	punc		,	punct	155
+11	155	ED	NOUN	verb		ED	conj	148
+11	156	omnia	DET	adjective	Case=Nom|Gender=Neut|Number=Plur	omnis	det	148
+11	157	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	158
+11	158	aequalia	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	aequalis	ROOT	158
+11	159	quadrato	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	quadro	nmod	158
+11	160	diametri	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	diametrus	nmod	159
+11	161	.	PUNCT	punc		.	punct	158
+11	162	Et	CCONJ	conjunction		et	cc	166
+11	163	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	166
+11	164	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	166
+11	165	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	166
+11	166	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	uolo	ROOT	166
+11	167	.	PUNCT	punc		.	punct	166
+12	0	12	NUM	number		12	ROOT	0
+12	1	.	PUNCT	punc		.	punct	0
+12	2	Si	SCONJ	conjunction		si	mark	7
+12	3	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	7
+12	4	semicirculus	NOUN	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	nsubj	7
+12	5	super	ADP	preposition		super	case	6
+12	6	diametrum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	diametros	obl	4
+12	7	AB	NOUN	preposition		AB	advcl	10
+12	8	,	PUNCT	punc		,	punct	7
+12	9	et	CCONJ	conjunction		et	cc	10
+12	10	eductaefuerint	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=FutPerf|VerbForm=Fin|Voice=Act	eductaefuerint	advcl	47
+12	11	ex	ADP	preposition		ex	case	12
+12	12	C	NOUN	NOUN		C	obl:arg	10
+12	13	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	14
+12	14	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nsubj	10
+12	15	tangentes	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	tango	acl	14
+12	16	illum	DET	adjective	Case=Acc|Gender=Masc|Number=Sing	ille	obj	15
+12	17	in	ADP	preposition		in	case	19
+12	18	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	19
+12	19	punctis	NOUN	noun	Case=Abl|Gender=Neut|Number=Plur	pungo	obl	15
+12	20	D	NOUN	NOUN		Decimus	obj	15
+12	21	,	PUNCT	punc		,	punct	22
+12	22	E	NOUN	NOUN		E	conj	20
+12	23	,	PUNCT	punc		,	punct	25
+12	24	et	CCONJ	conjunction		et	cc	25
+12	25	iunctae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	iungo	conj	10
+12	26	fuerint	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Perf|VerbForm=Fin	sum	aux:pass	25
+12	27	EA	PRON	pronoun	Case=Nom|Gender=Neut|Number=Plur|Person=3	is	nsubj:pass	25
+12	28	,	PUNCT	punc		,	punct	32
+12	29	DB	NOUN	adverb		DB	advmod	32
+12	30	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	32
+12	31	mutuo	ADV	adverb		mutuus	advmod	32
+12	32	secantes	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	seco	acl	25
+12	33	in	ADP	preposition		in	case	34
+12	34	F	NOUN	NOUN		f	obl:arg	32
+12	35	,	PUNCT	punc		,	punct	37
+12	36	et	CCONJ	conjunction		et	cc	37
+12	37	iuncta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	iunctus	conj	10
+12	38	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	aux:pass	37
+12	39	CF	NOUN	adverb		CF	nsubj:pass	37
+12	40	et	CCONJ	conjunction		et	cc	41
+12	41	producatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	produco	conj	39
+12	42	ad	ADP	preposition		ad	case	43
+12	43	G	NOUN	NOUN		Gherardesca	obl:arg	41
+12	44	,	PUNCT	punc		,	punct	10
+12	45	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	47
+12	46	CG	NOUN	number		CG	nsubj	47
+12	47	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	ROOT	47
+12	48	ad	ADP	preposition		ad	case	49
+12	49	AB	NOUN	verb		aB	obl:arg	47
+12	50	.	PUNCT	punc		.	punct	47
+12	51	lungamus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	lungamus	ROOT	51
+12	52	DA	NOUN	noun		DA	obj	51
+12	53	,	PUNCT	punc		,	punct	54
+12	54	EB	NOUN	conjunction		EB	conj	51
+12	55	.	PUNCT	punc		.	punct	51
+12	56	Et	CCONJ	conjunction		et	cc	66
+12	57	quia	SCONJ	conjunction		quia	mark	61
+12	58	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	61
+12	59	BDA	NOUN	adverb		BDA	nsubj	61
+12	60	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	61
+12	61	rectus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	rego	advcl	66
+12	62	,	PUNCT	punc		,	punct	61
+12	63	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	66
+12	64	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	65
+12	65	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	66
+12	66	DAB	NOUN	verb		DAB	ROOT	66
+12	67	,	PUNCT	punc		,	punct	69
+12	68	DBA	NOUN	adverb		DBA	advmod	69
+12	69	reliqui	DET	adjective	Case=Nom|Gender=Masc|Number=Plur	relinquo	conj	66
+12	70	in	ADP	preposition		in	case	71
+12	71	triangula	ADJ	noun	Case=Acc|Gender=Neut|Number=Plur	triangulus	obl	69
+12	72	o	PART	PART		o	conj	66
+12	73	DAB	NOUN	verb		DAB	advmod	74
+12	74	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	conj	66
+12	75	uni	NUM	number	Case=Dat|Gender=Masc|Number=Sing	unus	nmod	74
+12	76	recto	VERB	verb	Case=Dat|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	rego	acl	75
+12	77	.	PUNCT	punc		.	punct	66
+12	78	Et	CCONJ	conjunction		et	cc	79
+12	79	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	80
+12	80	AEB	NOUN	adverb		AEB	advmod	81
+12	81	rectus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	rego	ROOT	81
+12	82	;	PUNCT	punc		;	punct	81
+12	83	igitur	PART	particle		igitur	discourse	85
+12	84	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	85
+12	85	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	85
+12	86	ei	PRON	pronoun	Case=Dat|Gender=Masc|Number=Sing|Person=3	is	nmod	85
+12	87	.	PUNCT	punc		.	punct	85
+12	88	Et	CCONJ	conjunction		et	cc	89
+12	89	ponamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	pono	ROOT	89
+12	90	angulum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	angulus	obj	89
+12	91	FBE	NOUN	adjective		FBE	nummod	90
+12	92	communem	ADJ	adjective	Case=Acc|Gender=Masc|Number=Sing	communis	amod	91
+12	93	;	PUNCT	punc		;	punct	89
+12	94	ambo	DET	pronoun	Case=Nom|Gender=Neut|Number=Plur	ambo	det	95
+12	95	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	96
+12	96	DAB	NOUN	verb		DAB	advmod	100
+12	97	,	PUNCT	punc		,	punct	96
+12	98	ABE	NOUN	verb		ABE	nsubj	100
+12	99	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	100
+12	100	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	100
+12	101	FBE	NOUN	number		FBE	nmod	100
+12	102	,	PUNCT	punc		,	punct	103
+12	103	FEB	NOUN	adverb		FEB	conj	101
+12	104	,	PUNCT	punc		,	punct	106
+12	105	immo	ADV	adverb		immo	orphan	106
+12	106	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	conj	100
+12	107	DFE	NOUN	adverb		DFE	amod	106
+12	108	externo	ADJ	adjective	Case=Abl|Gender=Masc|Number=Sing	externus	amod	107
+12	109	in	ADP	preposition		in	case	110
+12	110	FBE	NOUN	number		FBE	obl	100
+12	111	.	PUNCT	punc		.	punct	100
+12	112	Et	CCONJ	conjunction		et	cc	125
+12	113	quia	SCONJ	conjunction		quia	mark	116
+12	114	CD	NOUN	adverb		CD	nsubj	116
+12	115	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux	116
+12	116	tangens	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	tango	advcl	125
+12	117	circulum	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	circulus	obj	116
+12	118	et	CCONJ	conjunction		et	cc	120
+12	119	DB	NOUN	adverb		DB	orphan	120
+12	120	secans	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Act	seco	conj	116
+12	121	illum	DET	adjective	Case=Acc|Gender=Masc|Number=Sing	ille	obj	120
+12	122	,	PUNCT	punc		,	punct	116
+12	123	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	125
+12	124	CDB	NOUN	adverb		CDB	nummod	123
+12	125	aequatur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	aequo	ROOT	125
+12	126	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	obl	125
+12	127	DAB	NOUN	verb		DAB	nummod	126
+12	128	,	PUNCT	punc		,	punct	133
+12	129	et	CCONJ	conjunction		et	cc	133
+12	130	pariter	ADV	adverb		pariter	advmod	133
+12	131	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	133
+12	132	CEF	NOUN	noun		CEF	nmod	131
+12	133	aequatur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	aequo	conj	125
+12	134	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	obl	133
+12	135	EBA	NOUN	noun		EBA	nmod	134
+12	136	;	PUNCT	punc		;	punct	125
+12	137	ergo	ADV	conjunction		ergo	advmod	144
+12	138	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	139
+12	139	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nmod	140
+12	140	CEF	NOUN	noun		CEF	nsubj	144
+12	141	,	PUNCT	punc		,	punct	142
+12	142	CDF	NOUN	adverb		CDF	conj	140
+12	143	simul	ADV	adverb		simul	advmod	144
+12	144	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	144
+12	145	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	144
+12	146	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	144
+12	147	DFE	NOUN	adverb		DFE	nmod	146
+12	148	.	PUNCT	punc		.	punct	144
+12	149	Et	CCONJ	conjunction		et	cc	153
+12	150	iam	ADV	adverb		iam	advmod:emph	153
+12	151	quidem	PART	particle		quidem	discourse	153
+12	152	planum	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	planus	xcomp	153
+12	153	fit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	facio	ROOT	153
+12	154	ex	ADP	preposition		ex	case	156
+12	155	nostro	DET	adjective	Case=Abl|Gender=Masc|Number=Sing	noster	det	156
+12	156	tractatu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	tractatus	obl	153
+12	157	de	ADP	preposition		de	case	158
+12	158	figuris	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	figura	nmod	156
+12	159	quadrilateris	NOUN	adjective	Case=Gen|Gender=Neut|Number=Sing	quadrilaterus	amod	158
+12	160	quod	SCONJ	conjunction		quod	mark	175
+12	161	,	PUNCT	punc		,	punct	160
+12	162	si	SCONJ	conjunction		si	mark	163
+12	163	educantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	educo	advcl	175
+12	164	inter	ADP	preposition		inter	case	166
+12	165	duas	NUM	number	Case=Acc|Gender=Fem|Number=Plur	duo	nummod	166
+12	166	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	obl:arg	163
+12	167	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	amod	166
+12	168	sibi	PRON	pronoun	Case=Dat|Person=3	sui	obl:arg	169
+12	169	occurrentes	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	occurro	acl	167
+12	170	in	ADP	preposition		in	case	172
+12	171	aliquo	DET	adjective	Case=Abl|Gender=Neut|Number=Sing	aliquis	det	172
+12	172	puncto	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	pungo	obl	169
+12	173	,	PUNCT	punc		,	punct	163
+12	174	uti	SCONJ	verb		utor	mark	175
+12	175	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	acl	156
+12	176	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	177
+12	177	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nsubj	175
+12	178	CD	NOUN	adverb		CD	amod	177
+12	179	,	PUNCT	punc		,	punct	180
+12	180	CE	NOUN	pronoun		CE	conj	178
+12	181	,	PUNCT	punc		,	punct	177
+12	182	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	183
+12	183	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nsubj	175
+12	184	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	186
+12	185	mutuo	ADV	adverb		mutuus	advmod	186
+12	186	secantes	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	seco	acl	183
+12	187	,	PUNCT	punc		,	punct	153
+12	188	uti	SCONJ	verb		utor	mark	189
+12	189	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	advcl	153
+12	190	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	191
+12	191	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nsubj	189
+12	192	DF	NOUN	adverb		DF	appos	191
+12	193	,	PUNCT	punc		,	punct	194
+12	194	EF	NOUN	noun		EF	conj	192
+12	195	,	PUNCT	punc		,	punct	201
+12	196	et	CCONJ	conjunction		et	cc	201
+12	197	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	aux:pass	201
+12	198	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	201
+12	199	ab	ADP	preposition		ab	case	200
+12	200	illis	DET	adjective	Case=Abl|Gender=Masc|Number=Plur	ille	obl:arg	201
+12	201	contentus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	contineo	conj	153
+12	202	,	PUNCT	punc		,	punct	205
+12	203	ut	SCONJ	conjunction		ut	mark	205
+12	204	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	205
+12	205	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	advcl:cmp	153
+12	206	F	NOUN	NOUN		f	nummod	205
+12	207	,	PUNCT	punc		,	punct	208
+12	208	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	appos	205
+12	209	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	210
+12	210	angulis	NOUN	noun	Case=Dat|Gender=Masc|Number=Plur	angulus	nmod	208
+12	211	,	PUNCT	punc		,	punct	213
+12	212	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	213
+12	213	occurrunt	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	occurro	acl:relcl	210
+12	214	duabus	NUM	number	Case=Abl|Gender=Fem|Number=Plur	duo	nummod	215
+12	215	lineis	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	linea	obl:arg	213
+12	216	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	218
+12	217	inuicem	PRON	pronoun		inuicem	obl	218
+12	218	secantibus	VERB	verb	Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	seco	acl	215
+12	219	,	PUNCT	punc		,	punct	221
+12	220	uti	SCONJ	verb		utor	mark	221
+12	221	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	advcl	213
+12	222	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nsubj	224
+12	223	angu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angus	obl	224
+12	224	i	NUM	number		i	advmod	213
+12	225	E	NOUN	number		E	advmod	213
+12	226	,	PUNCT	punc		,	punct	227
+12	227	D	NOUN	NOUN		Decimus	conj	213
+12	228	,	PUNCT	punc		,	punct	229
+12	229	simul	ADV	adverb		simul	advmod	232
+12	230	,	PUNCT	punc		,	punct	229
+12	231	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	232
+12	232	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	dep	153
+12	233	egrediens	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	egredior	acl	232
+12	234	a	ADP	preposition		ab	case	235
+12	235	puncto	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	pungo	obl:arg	233
+12	236	concursus	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	concursus	nmod	235
+12	237	ad	ADP	ADP		ad	case	238
+12	238	punctum	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	punctum	obl	233
+12	239	sectionis	NOUN	noun	Case=Gen|Gender=Fem|Number=Sing	sectio	nmod	238
+12	240	,	PUNCT	punc		,	punct	243
+12	241	uti	SCONJ	verb		utor	mark	243
+12	242	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	243
+12	243	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	conj:expl	232
+12	244	CF	NOUN	proper_noun		CF	amod	243
+12	245	,	PUNCT	punc		,	punct	246
+12	246	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	advcl:cmp	232
+12	247	cuilibet	DET	adjective	Case=Dat|Gender=Fem|Number=Sing	quilibet	det	248
+12	248	linearum	NOUN	adjective	Case=Gen|Gender=Fem|Number=Plur	linea	nmod	246
+12	249	sibi	PRON	pronoun	Case=Dat|Person=3	sui	obl:arg	250
+12	250	occurrentium	VERB	verb	Case=Gen|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	occurro	acl	248
+12	251	,	PUNCT	punc		,	punct	253
+12	252	ut	SCONJ	adverb		ut	mark	253
+12	253	CD	NOUN	adverb		CD	advcl:cmp	232
+12	254	uel	CCONJ	conjunction		uel	cc	255
+12	255	CE	NOUN	pronoun		CE	conj	253
+12	256	;	PUNCT	punc		;	punct	153
+12	257	propterea	ADV	adverb		propterea	advmod	260
+12	258	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	260
+12	259	CF	NOUN	adverb		CF	nsubj	260
+12	260	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	260
+12	261	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	262
+12	262	CD	NOUN	number		CD	obl	260
+12	263	;	PUNCT	punc		;	punct	260
+12	264	ergo	ADV	conjunction		ergo	advmod	268
+12	265	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	268
+12	266	CFD	NOUN	conjunction		CFD	amod	265
+12	267	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	268
+12	268	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	268
+12	269	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	268
+12	270	CDF	NOUN	adverb		CDF	nummod	269
+12	271	,	PUNCT	punc		,	punct	273
+12	272	nempe	PART	adverb		nempe	advmod:emph	273
+12	273	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	268
+12	274	DAG	NOUN	noun		DAG	flat	273
+12	275	,	PUNCT	punc		,	punct	283
+12	276	Sed	CCONJ	conjunction		Sed	cc	283
+12	277	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	283
+12	278	CFD	NOUN	conjunction		CFD	amod	277
+12	279	cum	ADP	ADP		cum	case	280
+12	280	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	obl	283
+12	281	DFG	NOUN	proper_noun		DFG	nmod	280
+12	282	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	283
+12	283	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	268
+12	284	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	285
+12	285	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	283
+12	286	ergo	ADV	adverb		ergo	advmod	292
+12	287	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	292
+12	288	DAG	NOUN	noun		DAG	nmod	287
+12	289	cum	ADP	ADP		cum	case	290
+12	290	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	obl	292
+12	291	DFG	NOUN	adverb		DFG	nmod	290
+12	292	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	268
+12	293	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	292
+12	294	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	obl:arg	295
+12	295	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	acl	292
+12	296	;	PUNCT	punc		;	punct	268
+12	297	et	CCONJ	conjunction		et	cc	298
+12	298	remanent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	298
+12	299	in	ADP	ADP		in	case	300
+12	300	quadrilatero	NOUN	adjective	Case=Abl|Gender=Neut|Number=Sing	quadrilaterus	obl	298
+12	301	ADFG	NOUN	conjunction		ADFG	nsubj	298
+12	302	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	303
+12	303	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nsubj	298
+12	304	ADF	NOUN	adverb		ADF	amod	303
+12	305	,	PUNCT	punc		,	punct	306
+12	306	AGF	NOUN	noun		AGF	conj	304
+12	307	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	xcomp	298
+12	308	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	obl:arg	309
+12	309	rectis	VERB	verb	Case=Dat|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	rego	ccomp	307
+12	310	.	PUNCT	punc		.	punct	298
+12	311	Set	CCONJ	conjunction		sed	cc	314
+12	312	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	314
+12	313	ADB	NOUN	adverb		ADB	advmod	314
+12	314	rectus	VERB	verb	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	rego	ROOT	314
+12	315	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	314
+12	316	ergo	ADV	conjunction		ergo	advmod	320
+12	317	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	320
+12	318	AGC	NOUN	proper_noun		AGC	nsubj	320
+12	319	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	320
+12	320	rectus	ADJ	verb	Case=Nom|Gender=Masc|Number=Sing	rego	advcl:cmp	314
+12	321	et	CCONJ	conjunction		et	cc	322
+12	322	CG	NOUN	number		CG	conj	320
+12	323	perpendicu	ADV	noun		perpendicus	orphan	322
+12	324	aris	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	ara	orphan	322
+12	325	ad	ADP	ADP		ad	case	326
+12	326	AB	NOUN	noun		aB	dep	324
+12	327	.	PUNCT	punc		.	punct	314
+12	328	Et	CCONJ	conjunction		et	cc	333
+12	329	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	332
+12	330	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	332
+12	331	quod	PRON	conjunction	Case=Acc|Gender=Neut|Number=Sing	quod	obj	332
+12	332	uol	VERB	noun	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	uol	nsubj	333
+12	333	nimus	NOUN	verb	Case=Nom|Gender=Masc|Number=Sing	nimus	ROOT	333
+12	334	.	PUNCT	punc		.	punct	333
+13	0	13	NUM	number		13	ROOT	0
+13	1	.	PUNCT	punc		.	punct	0
+13	2	Si	SCONJ	conjunction		si	mark	5
+13	3	mutuo	ADV	adverb		mutuus	advmod	5
+13	4	se	PRON	pronoun	Case=Acc|Person=3	sui	obj	5
+13	5	secent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	seco	ROOT	5
+13	6	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	7
+13	7	lineae	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	linea	nsubj	5
+13	8	AB	NOUN	preposition		AB	advmod	5
+13	9	,	PUNCT	punc		,	punct	10
+13	10	CD	NOUN	proper_noun		CD	conj	5
+13	11	in	ADP	preposition		in	case	12
+13	12	circulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	circulus	orphan	10
+13	13	,	PUNCT	punc		,	punct	14
+13	14	et	CCONJ	conjunction		et	mark	5
+13	15	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	17
+13	16	AB	ADP	preposition		AB	case	17
+13	17	diameter	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	diameter	obl	5
+13	18	illius	DET	adjective	Case=Gen|Gender=Fem|Number=Sing	ille	nmod	17
+13	19	,	PUNCT	punc		,	punct	22
+13	20	at	ADP	preposition		at	cc	22
+13	21	non	PART	particle		non	advmod:neg	22
+13	22	CD	NOUN	adverb		CD	conj	5
+13	23	,	PUNCT	punc		,	punct	25
+13	24	et	CCONJ	conjunction		et	cc	25
+13	25	educantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	educo	conj	5
+13	26	ex	ADP	preposition		ex	case	28
+13	27	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	28
+13	28	punctis	NOUN	verb	Case=Abl|Gender=Neut|Number=Plur	pungo	obl	25
+13	29	A	NOUN	NOUN		a	nsubj:pass	25
+13	30	,	PUNCT	punc		,	punct	31
+13	31	B	NOUN	NOUN		Bornellum	conj	29
+13	32	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	29
+13	33	perpendiculares	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	perpendicularis	amod	32
+13	34	ad	ADP	preposition		ad	case	35
+13	35	CD	NOUN	pronoun		CD	obl:arg	33
+13	36	,	PUNCT	punc		,	punct	39
+13	37	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Plur	qui	nsubj	39
+13	38	sint	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	39
+13	39	AE	NOUN	noun		aE	acl:relcl	25
+13	40	,	PUNCT	punc		,	punct	41
+13	41	BF	NOUN	proper_noun		BF	conj	39
+13	42	,	PUNCT	punc		,	punct	44
+13	43	utique	ADV	adverb		utique	advmod	44
+13	44	abscindent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	abscindo	conj	39
+13	45	ex	ADP	preposition		ex	case	47
+13	46	illa	DET	adjective	Case=Abl|Gender=Fem|Number=Sing	ille	det	47
+13	47	CF	NOUN	adverb		CF	obl:arg	44
+13	48	,	PUNCT	punc		,	punct	50
+13	49	DE	ADP	preposition		DE	case	50
+13	50	aequales	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	aequalis	obl	44
+13	51	.	PUNCT	punc		.	punct	5
+13	52	lungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	lungamus	ROOT	52
+13	53	EB	NOUN	proper_noun		EB	obj	52
+13	54	et	CCONJ	conjunction		et	cc	55
+13	55	educamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	educo	conj	52
+13	56	ex	ADP	preposition		ex	case	57
+13	57	l	NOUN	NOUN		lucius	obl	55
+13	58	,	PUNCT	punc		,	punct	61
+13	59	quod	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing	qui	nsubj	61
+13	60	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	61
+13	61	centrum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	centrum	acl:relcl	57
+13	62	,	PUNCT	punc		,	punct	57
+13	63	perpendicularem	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	perpendicularis	obj	52
+13	64	IG	NOUN	pronoun		IG	nummod	63
+13	65	super	ADP	preposition		super	case	66
+13	66	CD	NOUN	pronoun		CD	obl	64
+13	67	et	CCONJ	conjunction		et	cc	68
+13	68	pr	NOUN	NOUN		pridie	advmod	69
+13	69	oducamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	oduco	conj	52
+13	70	eam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing|Person=3	is	obj	69
+13	71	ad	ADP	preposition		ad	case	72
+13	72	H	NOUN	NOUN		h	obl	69
+13	73	in	ADP	preposition		in	case	74
+13	74	EB	NOUN	proper_noun		EB	obl	69
+13	75	.	PUNCT	punc		.	punct	52
+13	76	Et	CCONJ	conjunction		et	cc	88
+13	77	quia	SCONJ	conjunction		quia	mark	80
+13	78	lG	NOUN	adverb		lG	nsubj	80
+13	79	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	80
+13	80	perpendicularis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	perpendicularis	advcl	88
+13	81	ex	ADP	preposition		ex	case	82
+13	82	centro	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	centrum	obl	80
+13	83	ad	ADP	preposition		ad	case	84
+13	84	CD	NOUN	proper_noun		CD	obl	80
+13	85	,	PUNCT	punc		,	punct	80
+13	86	illam	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	ille	det	87
+13	87	bifariam	NOUN	adjective	Case=Acc|Gender=Fem|Number=Sing	bifaria	obj	88
+13	88	diuidet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	diuido	ROOT	88
+13	89	in	ADP	preposition		in	case	90
+13	90	G	NOUN	NOUN		Gherardesca	obl	88
+13	91	;	PUNCT	punc		;	punct	88
+13	92	et	CCONJ	conjunction		et	cc	104
+13	93	quia	SCONJ	conjunction		quia	mark	104
+13	94	ΙG	NOUN	X		ΙG	nsubj	104
+13	95	,	PUNCT	punc		,	punct	98
+13	96	AE	NOUN	noun		aE	nsubj	98
+13	97	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	98
+13	98	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	advcl:cmp	94
+13	99	perpendiculares	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	perpendicularis	amod	98
+13	100	super	ADP	preposition		super	case	101
+13	101	illam	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	ille	obl	99
+13	102	,	PUNCT	punc		,	punct	94
+13	103	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	104
+13	104	parallelae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	parallelus	ROOT	104
+13	105	.	PUNCT	punc		.	punct	104
+13	106	Et	CCONJ	conjunction		et	cc	115
+13	107	quia	SCONJ	conjunction		quia	mark	109
+13	108	BI	NOUN	adjective		BI	nsubj	109
+13	109	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	advcl	114
+13	110	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	109
+13	111	IA	NOUN	number		IA	nsubj	109
+13	112	,	PUNCT	punc		,	punct	109
+13	113	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	114
+13	114	BΗ	NOUN	X		BΗ	nsubj	115
+13	115	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	ROOT	115
+13	116	ipsi	DET	determiner	Case=Dat|Gender=Neut|Number=Sing	ipse	det	117
+13	117	ΗE	X	noun		ΗE	nmod	115
+13	118	;	PUNCT	punc		;	punct	115
+13	119	et	CCONJ	conjunction		et	cc	134
+13	120	propter	ADP	preposition		propter	case	122
+13	121	earum	PRON	pronoun	Case=Gen|Gender=Fem|Number=Plur|Person=3	is	nmod	122
+13	122	aequalitatem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	aequalitas	obl	134
+13	123	,	PUNCT	punc		,	punct	122
+13	124	et	CCONJ	conjunction		et	cc	128
+13	125	quia	SCONJ	conjunction		quia	mark	128
+13	126	BF	NOUN	proper_noun		BF	nsubj	128
+13	127	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	128
+13	128	parallela	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	parallelus	advcl	134
+13	129	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	130
+13	130	HG	NOUN	number		HG	obl	128
+13	131	,	PUNCT	punc		,	punct	128
+13	132	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	133
+13	133	FG	NOUN	number		FG	nsubj	134
+13	134	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	134
+13	135	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	136
+13	136	GE	NOUN	noun		GE	nmod	134
+13	137	,	PUNCT	punc		,	punct	138
+13	138	et	CCONJ	conjunction		et	cc	144
+13	139	ex	ADP	preposition		ex	case	140
+13	140	GC	NOUN	NOUN		GC	obl	144
+13	141	,	PUNCT	punc		,	punct	140
+13	142	GD	NOUN	number		GD	nsubj	144
+13	143	aequalibus	ADJ	adjective	Case=Dat|Gender=Neut|Number=Plur	aequalis	obl:arg	144
+13	144	remanent	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	conj	134
+13	145	FC	NOUN	adverb		FC	nsubj	144
+13	146	,	PUNCT	punc		,	punct	148
+13	147	ED	ADV	verb		ED	advmod	148
+13	148	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	conj	134
+13	149	.	PUNCT	punc		.	punct	134
+13	150	Et	CCONJ	conjunction		et	cc	154
+13	151	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	154
+13	152	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	154
+13	153	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	154
+13	154	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	nolo	ROOT	154
+13	155	.	PUNCT	punc		.	punct	154
+14	0	14	NUM	number		14	ROOT	0
+14	1	.	PUNCT	punc		.	punct	0
+14	2	Si	SCONJ	conjunction		si	mark	5
+14	3	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	5
+14	4	AB	ADP	preposition		AB	case	5
+14	5	semicirculus	NOUN	adjective	Case=Acc|Gender=Neut|Number=Sing	semicirculus	advcl	14
+14	6	,	PUNCT	punc		,	punct	14
+14	7	et	CCONJ	conjunction		et	cc	14
+14	8	ex	ADP	preposition		ex	case	10
+14	9	eius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing|Person=3	is	nmod	10
+14	10	diametro	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	diametros	nmod	14
+14	11	AB	ADP	preposition		AB	mark	12
+14	12	dissectae	VERB	verb	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	dissego	acl	10
+14	13	sint	AUX	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	12
+14	14	AC	NOUN	conjunction		AC	advcl	61
+14	15	,	PUNCT	punc		,	punct	16
+14	16	BD	NOUN	adverb		BD	conj	14
+14	17	aequales	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	aequalis	conj	14
+14	18	,	PUNCT	punc		,	punct	20
+14	19	et	CCONJ	conjunction		et	cc	20
+14	20	efficiantur	VERB	verb	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	efficio	conj	14
+14	21	super	ADP	ADP		super	case	22
+14	22	lineas	NOUN	noun	Case=Acc|Gender=Fem|Number=Plur	linea	obl	20
+14	23	AC	NOUN	conjunction		AC	advmod	20
+14	24	,	PUNCT	punc		,	punct	25
+14	25	CD	NOUN	number		CD	advmod	20
+14	26	,	PUNCT	punc		,	punct	27
+14	27	DB	NOUN	adverb		DB	advmod	20
+14	28	semicircul	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	semicircul	nmod	27
+14	29	i	NUM	number		i	obl	20
+14	30	,	PUNCT	punc		,	punct	31
+14	31	et	CCONJ	conjunction		et	mark	14
+14	32	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	33
+14	33	centrum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	centrum	conj	14
+14	34	duorum	NUM	number	Case=Gen|Gender=Neut|Number=Plur	duo	nummod	35
+14	35	semicirculorum	NOUN	adjective	Case=Gen|Gender=Neut|Number=Plur	semicirculus	nmod	33
+14	36	AB	NOUN	preposition		AB	advmod	33
+14	37	,	PUNCT	punc		,	punct	38
+14	38	CD	NOUN	pronoun		CD	obl	39
+14	39	punctum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	punctum	conj	14
+14	40	E	NOUN	NOUN		E	nummod	39
+14	41	,	PUNCT	punc		,	punct	45
+14	42	et	CCONJ	conjunction		et	cc	45
+14	43	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	45
+14	44	EF	NOUN	preposition		EF	nsubj	45
+14	45	perpendicularis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	perpendicularis	conj	14
+14	46	super	ADP	adverb		super	case	47
+14	47	AB	NOUN	preposition		AB	obl	45
+14	48	et	CCONJ	conjunction		et	cc	49
+14	49	producatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	produco	conj	45
+14	50	ad	ADP	ADP		ad	case	51
+14	51	G	NOUN	NOUN		Gherardesca	obl:arg	49
+14	52	,	PUNCT	punc		,	punct	53
+14	53	utique	ADV	adverb		utique	orphan	54
+14	54	circulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circulus	conj	14
+14	55	,	PUNCT	punc		,	punct	59
+14	56	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	57
+14	57	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	nsubj	59
+14	58	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	59
+14	59	FG	NOUN	number		FG	acl:relcl	54
+14	60	,	PUNCT	punc		,	punct	14
+14	61	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	ROOT	61
+14	62	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	61
+14	63	superficiei	NOUN	noun	Case=Dat|Gender=Fem|Number=Sing	superficies	nmod	61
+14	64	contentae	VERB	verb	Case=Dat|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	continiscor	acl	63
+14	65	a	ADP	preposition		ab	case	66
+14	66	semicirculo	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	semicirculus	nmod	63
+14	67	maiori	ADJ	adjective	Case=Abl|Gender=Neut|Number=Sing	maior	amod	66
+14	68	et	CCONJ	conjunction		et	cc	71
+14	69	a	ADP	preposition		ab	case	71
+14	70	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	71
+14	71	semicirclis	NOUN	adjective	Case=Abl|Gender=Neut|Number=Plur	semicirclus	conj	66
+14	72	,	PUNCT	punc		,	punct	76
+14	73	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	76
+14	74	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	76
+14	75	intra	ADP	preposition		intra	case	76
+14	76	i	NUM	number		i	acl:relcl	71
+14	77	lum	NOUN	noun		lum	nmod	76
+14	78	,	PUNCT	punc		,	punct	81
+14	79	et	CCONJ	conjunction		et	cc	81
+14	80	a	ADP	preposition		ab	case	81
+14	81	semicirculo	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	semicirculus	conj	66
+14	82	medio	ADJ	adjective	Case=Abl|Gender=Neut|Number=Sing	medius	amod	81
+14	83	,	PUNCT	punc		,	punct	87
+14	84	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Sing	qui	nsubj	87
+14	85	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	87
+14	86	extra	ADP	preposition		extra	case	87
+14	87	illum	DET	adjective	Case=Acc|Gender=Masc|Number=Sing	ille	acl:relcl	81
+14	88	.	PUNCT	punc		.	punct	61
+14	89	Et	CCONJ	conjunction		et	cc	91
+14	90	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	91
+14	91	figura	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	figura	ROOT	91
+14	92	,	PUNCT	punc		,	punct	94
+14	93	quam	PRON	pronoun	Case=Acc|Gender=Fem|Number=Sing	qui	obj	94
+14	94	uocat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	uoco	acl:relcl	91
+14	95	Archimedes	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Archimedes	nsubj	94
+14	96	Salinon	ADV	noun		Salinon	xcomp	94
+14	97	.	PUNCT	punc		.	punct	91
+14	98	Quia	SCONJ	conjunction		quia	mark	101
+14	99	DC	NUM	number		DC	nummod	100
+14	100	bifariam	NOUN	adjective	Case=Acc|Gender=Fem|Number=Sing	bifaria	nsubj:pass	101
+14	101	secatur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	seco	advcl	113
+14	102	in	ADP	preposition		in	case	103
+14	103	E	NOUN	NOUN		E	obl	101
+14	104	,	PUNCT	punc		,	punct	106
+14	105	et	CCONJ	conjunction		et	cc	106
+14	106	addita	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	addo	conj	101
+14	107	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	106
+14	108	iili	PROPN	pronoun	Case=Dat|Gender=Masc|Number=Sing	iili	obl	106
+14	109	CA	SCONJ	pronoun		CA	advmod	106
+14	110	,	PUNCT	punc		,	punct	101
+14	111	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	113
+14	112	duo	NUM	number	Case=Nom|Gender=Neut|Number=Plur	duo	nummod	113
+14	113	quadrata	VERB	verb	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadro	ROOT	113
+14	114	DA	NOUN	noun		DA	dep	113
+14	115	,	PUNCT	punc		,	punct	117
+14	116	CA	NOUN	pronoun		CA	advmod	117
+14	117	dupla	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	duplus	advcl:cmp	113
+14	118	duorum	NUM	number	Case=Gen|Gender=Masc|Number=Plur	duo	nummod	119
+14	119	quadratorum	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	quadratum	nmod	117
+14	120	DE	ADP	ADP		DE	dep	119
+14	121	,	PUNCT	punc		,	punct	122
+14	122	EA	PRON	pronoun	Case=Abl|Gender=Fem|Number=Sing|Person=3	is	orphan	117
+14	123	.	PUNCT	punc		.	punct	113
+14	124	Sed	CCONJ	conjunction		sed	cc	126
+14	125	FG	NOUN	number		FG	nsubj	126
+14	126	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	126
+14	127	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	126
+14	128	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	129
+14	129	DA	NOUN	noun		DA	nmod	126
+14	130	;	PUNCT	punc		;	punct	126
+14	131	ergo	ADV	conjunction		ergo	advmod	132
+14	132	duo	NUM	number	Case=Nom|Gender=Neut|Number=Plur	duo	ROOT	132
+14	133	quadrata	VERB	verb	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadro	acl	132
+14	134	FG	NOUN	NOUN		FG	obl:arg	133
+14	135	,	PUNCT	punc		,	punct	137
+14	136	AC	CCONJ	conjunction		AC	cc	137
+14	137	dupla	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	duplus	conj	132
+14	138	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	137
+14	139	duorum	NUM	number	Case=Gen|Gender=Masc|Number=Plur	duo	nummod	140
+14	140	quadratorum	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	quadratum	obl	137
+14	141	DE	ADP	ADP		DE	case	140
+14	142	,	PUNCT	punc		,	punct	143
+14	143	EA	PRON	pronoun	Case=Abl|Gender=Fem|Number=Sing|Person=3	is	appos	132
+14	144	.	PUNCT	punc		.	punct	132
+14	145	Et	CCONJ	conjunction		et	cc	160
+14	146	quia	SCONJ	conjunction		quia	mark	148
+14	147	AB	NOUN	ADP		AB	mark	148
+14	148	dupla	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	duplus	advcl	160
+14	149	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	148
+14	150	AE	NOUN	noun		aE	nsubj	148
+14	151	,	PUNCT	punc		,	punct	154
+14	152	et	CCONJ	conjunction		et	cc	154
+14	153	CD	NOUN	pronoun		CD	orphan	154
+14	154	dupla	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	duplus	conj	148
+14	155	quoque	ADV	adverb		quoque	discourse	154
+14	156	ED	NOUN	noun		ED	orphan	154
+14	157	,	PUNCT	punc		,	punct	148
+14	158	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	aux:pass	160
+14	159	duo	NUM	number	Case=Nom|Gender=Neut|Number=Plur	duo	nsubj:pass	160
+14	160	quadrata	VERB	verb	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	quadro	ROOT	160
+14	161	AB	NOUN	ADP		AB	advmod	160
+14	162	,	PUNCT	punc		,	punct	161
+14	163	DC	NOUN	number		DC	advmod	164
+14	164	quadrupla	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	quadruplus	dislocated	160
+14	165	duorum	NUM	number	Case=Gen|Gender=Masc|Number=Plur	duo	nummod	166
+14	166	quadratorum	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	quadratum	nmod	164
+14	167	DE	ADP	ADP		DE	case	169
+14	168	,	PUNCT	punc		,	punct	169
+14	169	EA	PRON	pronoun	Case=Abl|Gender=Fem|Number=Sing|Person=3	is	obl:arg	164
+14	170	,	PUNCT	punc		,	punct	172
+14	171	immo	ADV	adverb		immo	advmod	172
+14	172	dupla	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	duplus	conj	164
+14	173	duorum	NUM	number	Case=Gen|Gender=Masc|Number=Plur	duo	nummod	174
+14	174	quadratorum	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	quadratum	nmod	172
+14	175	GF	NOUN	adjective		GF	conj	164
+14	176	,	PUNCT	punc		,	punct	177
+14	177	AC	NOUN	conjunction		AC	advmod	164
+14	178	.	PUNCT	punc		.	punct	160
+14	179	Simi	VERB	adjective	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	simus	csubj	192
+14	180	iter	NOUN	noun	Case=Acc|Gender=Neut|Number=Sing	iter	obj	179
+14	181	etiam	ADV	adverb		etiam	advmod:emph	183
+14	182	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	183
+14	183	circuli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	circulus	nsubj	179
+14	184	,	PUNCT	punc		,	punct	186
+14	185	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	186
+14	186	diametri	NOUN	adjective	Case=Nom|Gender=Masc|Number=Plur	diametrus	acl:relcl	183
+14	187	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	186
+14	188	AB	NOUN	ADP		AB	case	190
+14	189	,	PUNCT	punc		,	punct	190
+14	190	DC	NOUN	adverb		DC	advmod	186
+14	191	,	PUNCT	punc		,	punct	183
+14	192	dupli	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	duplus	amod	214
+14	193	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	192
+14	194	eorum	PRON	pronoun	Case=Gen|Gender=Neut|Number=Plur|Person=3	is	nmod	192
+14	195	,	PUNCT	punc		,	punct	197
+14	196	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	197
+14	197	diametri	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	diametrus	nsubj	199
+14	198	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	199
+14	199	GF	NOUN	adjective		GF	acl:relcl	194
+14	200	,	PUNCT	punc		,	punct	201
+14	201	AC	NOUN	conjunction		AC	conj	199
+14	202	,	PUNCT	punc		,	punct	204
+14	203	et	CCONJ	conjunction		et	cc	204
+14	204	dimidii	NOUN	adjective	Case=Nom|Gender=Masc|Number=Plur	dimidium	conj	192
+14	205	eorum	PRON	pronoun	Case=Gen|Gender=Neut|Number=Plur|Person=3	is	nmod	204
+14	206	,	PUNCT	punc		,	punct	208
+14	207	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	208
+14	208	diametri	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	diametrus	acl:relcl	204
+14	209	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	208
+14	210	AB	NOUN	preposition		AB	nsubj	208
+14	211	,	PUNCT	punc		,	punct	212
+14	212	CD	NOUN	conjunction		CD	advmod	208
+14	213	,	PUNCT	punc		,	punct	214
+14	214	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	214
+14	215	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	216
+14	216	circulis	NOUN	noun	Case=Dat|Gender=Masc|Number=Plur	circulus	nmod	214
+14	217	,	PUNCT	punc		,	punct	219
+14	218	quorum	PRON	pronoun	Case=Gen|Gender=Masc|Number=Plur	qui	nmod	219
+14	219	diametri	NOUN	adjective	Case=Nom|Gender=Masc|Number=Plur	diametrus	nsubj	221
+14	220	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	221
+14	221	GF	NOUN	adjective		GF	acl:relcl	216
+14	222	,	PUNCT	punc		,	punct	223
+14	223	AC	CCONJ	conjunction		AC	conj	221
+14	224	.	PUNCT	punc		.	punct	214
+14	225	Sed	CCONJ	conjunction		sed	cc	233
+14	226	circulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	circulus	nsubj	233
+14	227	,	PUNCT	punc		,	punct	229
+14	228	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	229
+14	229	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	acl:relcl	226
+14	230	AC	NOUN	conjunction		AC	nmod	229
+14	231	,	PUNCT	punc		,	punct	226
+14	232	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	233
+14	233	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	233
+14	234	duobus	NUM	number	Case=Dat|Gender=Masc|Number=Plur	duo	nummod	235
+14	235	semicirculis	NOUN	noun	Case=Dat|Gender=Masc|Number=Plur	semicirculus	nmod	233
+14	236	AC	NOUN	conjunction		AC	nummod	235
+14	237	,	PUNCT	punc		,	punct	238
+14	238	BD	NOUN	noun		BD	conj	236
+14	239	;	PUNCT	punc		;	punct	233
+14	240	ergo	ADV	conjunction		ergo	discourse	256
+14	241	,	PUNCT	punc		,	punct	240
+14	242	si	SCONJ	conjunction		si	mark	243
+14	243	auferamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	aufero	advcl	256
+14	244	ex	ADP	preposition		ex	case	245
+14	245	illis	DET	adjective	Case=Abl|Gender=Masc|Number=Plur	ille	obl	243
+14	246	duos	NUM	number	Case=Acc|Gender=Masc|Number=Plur	duo	nummod	247
+14	247	semicirculos	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	semicirculus	obj	243
+14	248	AC	CCONJ	conjunction		AC	nmod	247
+14	249	,	PUNCT	punc		,	punct	250
+14	250	BD	NOUN	noun		BD	conj	248
+14	251	,	PUNCT	punc		,	punct	254
+14	252	qui	PRON	pronoun	Case=Nom|Gender=Masc|Number=Plur	qui	nsubj	254
+14	253	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	254
+14	254	communes	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	communis	acl:relcl	247
+14	255	,	PUNCT	punc		,	punct	243
+14	256	remanet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	256
+14	257	figura	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	figura	nsubj	256
+14	258	contenta	VERB	verb	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	contineo	acl	257
+14	259	a	ADP	preposition		ab	case	261
+14	260	quattuor	NUM	number		quattuor	nummod	261
+14	261	semicirculis	NOUN	noun	Case=Abl|Gender=Masc|Number=Plur	semicirculus	obl:arg	258
+14	262	AB	NOUN	preposition		AB	case	264
+14	263	,	PUNCT	punc		,	punct	264
+14	264	CD	NOUN	conjunction		CD	conj	256
+14	265	,	PUNCT	punc		,	punct	266
+14	266	DB	NOUN	adverb		DB	conj	264
+14	267	,	PUNCT	punc		,	punct	268
+14	268	AC	NOUN	conjunction		AC	conj	264
+14	269	,	PUNCT	punc		,	punct	280
+14	270	(	PUNCT	punc		(	punct	271
+14	271	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	qui	nsubj	280
+14	272	ea	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3	is	nsubj	271
+14	273	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	271
+14	274	,	PUNCT	punc		,	punct	276
+14	275	quam	PRON	conjunction	Case=Acc|Gender=Fem|Number=Sing	quam	obj	276
+14	276	uocat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	uoco	acl:relcl	271
+14	277	Archimedes	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Archimedes	nsubj	276
+14	278	Salinon	ADJ	verb	Case=Nom|Gender=Fem|Number=Sing	Salinon	appos	277
+14	279	)	PUNCT	punc		)	punct	271
+14	280	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	conj	264
+14	281	circulo	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	circulus	nmod	280
+14	282	,	PUNCT	punc		,	punct	286
+14	283	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	284
+14	284	diameter	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	diameter	nsubj	286
+14	285	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	286
+14	286	FG	NOUN	proper_noun		FG	acl:relcl	281
+14	287	.	PUNCT	punc		.	punct	256
+14	288	Et	CCONJ	conjunction		et	cc	292
+14	289	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	292
+14	290	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	292
+14	291	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	292
+14	292	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	uolo	ROOT	292
+14	293	.	PUNCT	punc		.	punct	292
+15	0	15	NUM	number		15	ROOT	0
+15	1	.	PUNCT	punc		.	punct	0
+15	2	Si	SCONJ	conjunction		si	mark	5
+15	3	fuerit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=FutPerf|VerbForm=Fin	sum	cop	5
+15	4	AB	ADP	preposition		AB	case	5
+15	5	semicirculus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	semicirculus	advcl	18
+15	6	et	CCONJ	conjunction		et	cc	8
+15	7	AC	CCONJ	conjunction		AC	orphan	8
+15	8	chorda	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	chorda	conj	5
+15	9	pentagoni	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	pentagonum	nmod	8
+15	10	,	PUNCT	punc		,	punct	13
+15	11	et	CCONJ	conjunction		et	cc	13
+15	12	semissis	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	semis	nmod	13
+15	13	arcus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	arcus	nsubj	16
+15	14	AC	CCONJ	conjunction		AC	cc	13
+15	15	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	16
+15	16	AD	NOUN	preposition		AD	conj	5
+15	17	,	PUNCT	punc		,	punct	5
+15	18	iungatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	iungo	advcl	51
+15	19	gatur	VERB	noun	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	gatur	nsubj:pass	18
+15	20	CD	NOUN	number		CD	obl	18
+15	21	et	CCONJ	conjunction		et	cc	22
+15	22	producatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	produco	conj	18
+15	23	,	PUNCT	punc		,	punct	25
+15	24	ut	SCONJ	conjunction		ut	mark	25
+15	25	cadat	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	cado	advcl	18
+15	26	super	ADP	preposition		super	case	27
+15	27	E	NOUN	NOUN		E	obl	25
+15	28	,	PUNCT	punc		,	punct	30
+15	29	et	CCONJ	conjunction		et	cc	30
+15	30	iungatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	iungo	conj	18
+15	31	DB	NOUN	adverb		DB	nsubj:pass	30
+15	32	,	PUNCT	punc		,	punct	34
+15	33	quae	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	qui	nsubj	34
+15	34	secet	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	seco	acl:relcl	31
+15	35	CA	NOUN	adverb		CA	advmod	34
+15	36	in	ADP	preposition		in	case	37
+15	37	F	NOUN	NOUN		f	obl	34
+15	38	,	PUNCT	punc		,	punct	40
+15	39	et	CCONJ	conjunction		et	cc	40
+15	40	ducatur	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	duco	conj	18
+15	41	ex	ADP	preposition		ex	case	42
+15	42	F	NOUN	NOUN		f	obl	40
+15	43	perpendicularis	ADJ	adjective	Case=Gen|Gender=Neut|Number=Sing	perpendicularis	nmod	42
+15	44	FG	NOUN	NOUN		FG	flat	42
+15	45	super	ADP	adverb		super	case	46
+15	46	AB	NOUN	preposition		AB	obl	40
+15	47	,	PUNCT	punc		,	punct	18
+15	48	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	51
+15	49	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj	51
+15	50	EG	NOUN	pronoun		EG	appos	49
+15	51	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	ROOT	51
+15	52	semidiametro	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	semidiametrus	nmod	51
+15	53	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	52
+15	54	.	PUNCT	punc		.	punct	51
+15	55	lungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	lungamus	ROOT	55
+15	56	itaque	PART	conjunction		itaque	discourse	55
+15	57	lineam	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	linea	obj	55
+15	58	CB	NOUN	NOUN		CBm	nmod	57
+15	59	,	PUNCT	punc		,	punct	60
+15	60	et	CCONJ	conjunction		et	mark	55
+15	61	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	62
+15	62	centrum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	centrum	conj	55
+15	63	H	NOUN	NOUN		h	nsubj	62
+15	64	,	PUNCT	punc		,	punct	66
+15	65	et	CCONJ	conjunction		et	cc	66
+15	66	iungamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	iungo	conj	55
+15	67	HD	NOUN	adverb		HD	obj	66
+15	68	,	PUNCT	punc		,	punct	69
+15	69	DG	NOUN	NOUN		DG	conj	67
+15	70	et	CCONJ	conjunction		et	cc	71
+15	71	AD	NOUN	preposition		AD	conj	69
+15	72	.	PUNCT	punc		.	punct	55
+15	73	Et	CCONJ	conjunction		et	cc	88
+15	74	quia	SCONJ	conjunction		quia	mark	88
+15	75	ango	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	ango	nsubj	88
+15	76	us	NOUN	adverb		us	nmod	75
+15	77	AHC	ADJ	adverb		AHC	acl	75
+15	78	,	PUNCT	punc		,	punct	80
+15	79	cuius	PRON	pronoun	Case=Gen|Gender=Masc|Number=Sing	qui	nmod	80
+15	80	basis	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	basis	acl:relcl	75
+15	81	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	82
+15	82	latus	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	latus	nsubj	80
+15	83	pentagoni	PROPN	noun	Case=Gen|Gender=Neut|Number=Sing	pentagonum	nmod	82
+15	84	,	PUNCT	punc		,	punct	75
+15	85	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	88
+15	86	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	88
+15	87	quintae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	quintus	amod	88
+15	88	partes	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	pars	ROOT	88
+15	89	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	acl	88
+15	90	,	PUNCT	punc		,	punct	88
+15	91	quilibet	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	quilibet	nmod	88
+15	92	duorum	NUM	number	Case=Gen|Gender=Masc|Number=Plur	duo	nummod	93
+15	93	angulorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	angulus	nmod	91
+15	94	CBD	NOUN	adverb		CBD	orphan	91
+15	95	,	PUNCT	punc		,	punct	91
+15	96	DHA	NOUN	number		DHA	nsubj	99
+15	97	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	99
+15	98	quinta	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	quintus	amod	99
+15	99	pars	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	pars	acl:relcl	88
+15	100	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	nmod	99
+15	101	.	PUNCT	punc		.	punct	88
+15	102	Et	CCONJ	conjunction		et	cc	105
+15	103	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	105
+15	104	DHA	NOUN	number		DHA	nummod	103
+15	105	duplus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	duplus	ROOT	105
+15	106	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	105
+15	107	anguli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	angulus	nmod	108
+15	108	DBH	NOUN	adverb		DBH	obl:arg	105
+15	109	;	PUNCT	punc		;	punct	105
+15	110	ergo	ADV	adverb		ergo	advmod	116
+15	111	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	116
+15	112	DHA	NOUN	adjective		DHA	nummod	111
+15	113	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	116
+15	114	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	116
+15	115	quintae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	quintus	amod	116
+15	116	partes	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	pars	ROOT	116
+15	117	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	nmod	116
+15	118	.	PUNCT	punc		.	punct	116
+15	119	Et	CCONJ	conjunction		et	cc	144
+15	120	quia	SCONJ	conjunction		quia	mark	131
+15	121	in	ADP	preposition		in	case	123
+15	122	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	123
+15	123	triangulis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	triangulus	obl	131
+15	124	CBF	NOUN	adverb		CBF	nmod	123
+15	125	,	PUNCT	punc		,	punct	126
+15	126	GBF	NOUN	adverb		GBF	conj	124
+15	127	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	128
+15	128	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nmod	129
+15	129	B	NOUN	NOUN		Bornellum	conj	124
+15	130	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	131
+15	131	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	advcl	144
+15	132	et	CCONJ	conjunction		et	cc	133
+15	133	G	NOUN	NOUN		Gherardesca	conj	131
+15	134	,	PUNCT	punc		,	punct	135
+15	135	C	NOUN	NOUN		C	conj	133
+15	136	recti	ADJ	verb	Case=Dat|Gender=Masc|Number=Sing	rego	nmod	135
+15	137	et	CCONJ	conjunction		et	cc	138
+15	138	latus	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	latus	conj	131
+15	139	FB	NOUN	number		FB	nummod	138
+15	140	commune	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	communis	amod	138
+15	141	,	PUNCT	punc		,	punct	131
+15	142	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	144
+15	143	BC	NOUN	adverb		BC	advmod	144
+15	144	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	ROOT	144
+15	145	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	146
+15	146	BG	NOUN	adverb		BG	nmod	144
+15	147	.	PUNCT	punc		.	punct	144
+15	148	Et	CCONJ	conjunction		et	cc	181
+15	149	quia	SCONJ	conjunction		quia	mark	162
+15	150	in	ADP	preposition		in	case	152
+15	151	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	152
+15	152	triangulis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	triangulus	obl	162
+15	153	CBD	NOUN	adverb		CBD	conj	152
+15	154	,	PUNCT	punc		,	punct	155
+15	155	GBD	NOUN	verb		GBD	conj	153
+15	156	duo	NUM	number	Case=Nom|Gender=Neut|Number=Plur	duo	nummod	157
+15	157	latera	NOUN	noun	Case=Nom|Gender=Neut|Number=Plur	latus	nsubj	162
+15	158	CB	NOUN	NOUN		CB	nmod	157
+15	159	,	PUNCT	punc		,	punct	160
+15	160	BG	NOUN	verb		BG	conj	157
+15	161	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	162
+15	162	aequalia	ADJ	adjective	Case=Nom|Gender=Neut|Number=Plur	aequalis	advcl	181
+15	163	et	CCONJ	conjunction		et	cc	166
+15	164	similiter	ADV	adverb		similiter	orphan	166
+15	165	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	166
+15	166	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	conj	157
+15	167	ad	ADP	preposition		ad	case	168
+15	168	B	NOUN	NOUN		Bornellum	orphan	166
+15	169	,	PUNCT	punc		,	punct	172
+15	170	et	CCONJ	conjunction		et	cc	172
+15	171	latus	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	latus	orphan	172
+15	172	BD	NOUN	number		BD	conj	168
+15	173	commune	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	communis	nmod	172
+15	174	,	PUNCT	punc		,	punct	162
+15	175	erunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	178
+15	176	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	177
+15	177	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nmod	178
+15	178	BCD	NOUN	adverb		BCD	conj	162
+15	179	,	PUNCT	punc		,	punct	180
+15	180	BGD	NOUN	adverb		BGD	conj	178
+15	181	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	ROOT	181
+15	182	.	PUNCT	punc		.	punct	181
+15	183	Et	CCONJ	conjunction		et	cc	189
+15	184	quilibet	DET	adjective	Case=Nom|Gender=Masc|Number=Sing	quilibet	nsubj	189
+15	185	eorum	PRON	pronoun	Case=Gen|Gender=Neut|Number=Plur|Person=3	is	nmod	184
+15	186	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	189
+15	187	sex	NUM	number		sex	nummod	189
+15	188	quintae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	quintus	amod	189
+15	189	partes	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	pars	ROOT	189
+15	190	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	nmod	189
+15	191	,	PUNCT	punc		,	punct	194
+15	192	et	CCONJ	conjunction		et	cc	194
+15	193	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	194
+15	194	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	189
+15	195	ang	NOUN	noun		ang	nsubj	194
+15	196	ulo	NOUN	adjective	Case=Dat|Gender=Masc|Number=Sing	ulo	nmod	195
+15	197	DAE	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	DAE	nmod	194
+15	198	externo	ADJ	adjective	Case=Dat|Gender=Neut|Number=Sing	externus	amod	197
+15	199	quadrilateri	NOUN	noun	Case=Dat|Gender=Neut|Number=Sing	quadrilaterum	nmod	194
+15	200	BADC	NOUN	verb		BADC	nmod	199
+15	201	,	PUNCT	punc		,	punct	205
+15	202	quod	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing	qui	nsubj	205
+15	203	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	205
+15	204	in	ADP	preposition		in	case	205
+15	205	circulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	circulus	acl:relcl	199
+15	206	;	PUNCT	punc		;	punct	189
+15	207	ergo	ADV	adverb		ergo	advmod	208
+15	208	remanet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	208
+15	209	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	208
+15	210	DAB	NOUN	verb		DAB	amod	209
+15	211	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	xcomp	208
+15	212	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	211
+15	213	DGA	NOUN	proper_noun		DGA	flat	212
+15	214	,	PUNCT	punc		,	punct	218
+15	215	et	CCONJ	conjunction		et	cc	218
+15	216	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	218
+15	217	DA	NOUN	verb		DA	nsubj	218
+15	218	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	208
+15	219	ipsi	DET	determiner	Case=Dat|Gender=Masc|Number=Sing	ipse	det	220
+15	220	DG	NOUN	proper_noun		DG	nmod	218
+15	221	.	PUNCT	punc		.	punct	208
+15	222	Et	CCONJ	conjunction		et	cc	239
+15	223	quia	SCONJ	conjunction		quia	mark	229
+15	224	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	229
+15	225	DHG	NOUN	conjunction		DHG	nmod	224
+15	226	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	229
+15	227	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	229
+15	228	quintae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	quintus	amod	229
+15	229	partes	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	pars	advcl	239
+15	230	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	nmod	229
+15	231	et	CCONJ	conjunction		et	cc	232
+15	232	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	conj	229
+15	233	DGΗ	NOUN	X		DGΗ	orphan	232
+15	234	sex	NUM	number		sex	nummod	236
+15	235	quintae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	quintus	amod	236
+15	236	partes	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	pars	orphan	232
+15	237	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	nmod	236
+15	238	,	PUNCT	punc		,	punct	229
+15	239	remanet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	remaneo	ROOT	239
+15	240	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	239
+15	241	HDG	NOUN	conjunction		HDG	advmod	239
+15	242	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	244
+15	243	quintae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	quintus	amod	244
+15	244	partes	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	pars	nsubj	239
+15	245	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	acl	244
+15	246	,	PUNCT	punc		,	punct	250
+15	247	et	CCONJ	conjunction		et	cc	250
+15	248	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	250
+15	249	DG	NOUN	NOUN		DG	nsubj	250
+15	250	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	239
+15	251	GH	NOUN	adjective		GH	nmod	250
+15	252	.	PUNCT	punc		.	punct	239
+15	253	Et	CCONJ	conjunction		et	cc	266
+15	254	quia	SCONJ	conjunction		quia	mark	266
+15	255	ADE	VERB	verb	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ADE	nsubj	266
+15	256	externus	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	externus	amod	255
+15	257	quadrilateri	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	quadrilaterum	nmod	255
+15	258	ADCB	NOUN	adverb		ADCB	nmod	257
+15	259	,	PUNCT	punc		,	punct	263
+15	260	quod	PRON	pronoun	Case=Nom|Gender=Neut|Number=Sing	qui	nsubj	263
+15	261	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	263
+15	262	in	ADP	preposition		in	case	263
+15	263	circulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	circulus	acl:relcl	257
+15	264	,	PUNCT	punc		,	punct	255
+15	265	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	266
+15	266	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	ROOT	266
+15	267	angul	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angul	nmod	266
+15	268	CBA	ADJ	adverb		CBA	amod	267
+15	269	,	PUNCT	punc		,	punct	274
+15	270	et	CCONJ	conjunction		et	cc	274
+15	271	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	274
+15	272	duae	NUM	number	Case=Nom|Gender=Fem|Number=Plur	duo	nummod	274
+15	273	quintae	ADJ	adjective	Case=Nom|Gender=Fem|Number=Plur	quintus	amod	274
+15	274	partes	NOUN	noun	Case=Nom|Gender=Fem|Number=Plur	pars	conj	266
+15	275	recti	VERB	verb	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	rego	acl	274
+15	276	et	CCONJ	conjunction		et	cc	277
+15	277	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	conj	274
+15	278	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	277
+15	279	GDH	NOUN	adjective		GDH	nmod	277
+15	280	.	PUNCT	punc		.	punct	266
+15	281	Et	CCONJ	conjunction		et	cc	292
+15	282	quia	SCONJ	conjunction		quia	mark	286
+15	283	in	ADP	preposition		in	case	285
+15	284	duobus	NUM	number	Case=Abl|Gender=Neut|Number=Plur	duo	nummod	285
+15	285	triangulis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	triangulus	obl	286
+15	286	EDA	NOUN	verb	Case=Nom|Gender=Fem|Number=Sing	EDA	advcl	292
+15	287	,	PUNCT	punc		,	punct	286
+15	288	HDG	NOUN	adverb		HDG	nsubj	292
+15	289	sunt	AUX	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	292
+15	290	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	291
+15	291	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	nmod	292
+15	292	EDA	NOUN	noun	Case=Nom|Gender=Neut|Number=Plur	EDA	advcl	312
+15	293	,	PUNCT	punc		,	punct	295
+15	294	HDG	NOUN	adverb		HDG	orphan	295
+15	295	aequales	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	aequalis	conj	292
+15	296	et	CCONJ	conjunction		et	cc	299
+15	297	pariter	ADV	adverb		pariter	advmod	299
+15	298	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	299
+15	299	anguli	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	angulus	conj	292
+15	300	DGH	NOUN	NOUN		DGH	flat	299
+15	301	,	PUNCT	punc		,	punct	302
+15	302	DAE	NOUN	noun		DAE	conj	292
+15	303	et	CCONJ	conjunction		et	cc	305
+15	304	duo	NUM	number	Case=Nom|Gender=Masc|Number=Plur	duo	nummod	305
+15	305	latera	NOUN	noun	Case=Nom|Gender=Neut|Number=Plur	latus	conj	292
+15	306	DA	NOUN	noun		DA	nmod	305
+15	307	,	PUNCT	punc		,	punct	308
+15	308	DG	NOUN	NOUN		DG	conj	292
+15	309	,	PUNCT	punc		,	punct	292
+15	310	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	312
+15	311	EA	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing|Person=3	is	nsubj	312
+15	312	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	ROOT	312
+15	313	HG	NOUN	adverb		HG	nmod	312
+15	314	.	PUNCT	punc		.	punct	312
+15	315	Et	CCONJ	conjunction		et	cc	316
+15	316	ponamus	VERB	verb	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	pono	ROOT	316
+15	317	AG	NOUN	noun		AGus	obj	316
+15	318	commune	ADJ	adjective	Case=Acc|Gender=Neut|Number=Sing	communis	amod	317
+15	319	;	PUNCT	punc		;	punct	316
+15	320	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	321
+15	321	EG	NOUN	pronoun		EG	nsubj	322
+15	322	aequale	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	aequalis	ROOT	322
+15	323	AH	NOUN	adverb		AH	advmod	322
+15	324	.	PUNCT	punc		.	punct	322
+15	325	Et	CCONJ	conjunction		et	cc	329
+15	326	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	329
+15	327	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	329
+15	328	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	329
+15	329	uoluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	uolo	ROOT	329
+15	330	.	PUNCT	punc		.	punct	329
+15	331	Et	CCONJ	conjunction		et	cc	333
+15	332	hinc	ADV	adverb		hinc	advmod:lmod	333
+15	333	patet	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	pateo	ROOT	333
+15	334	quod	SCONJ	conjunction		quod	mark	337
+15	335	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj	337
+15	336	DE	ADP	preposition		DE	nmod	335
+15	337	aequalis	ADJ	adjective	Case=Abl|Gender=Neut|Number=Plur	aequalis	csubj	333
+15	338	sit	AUX	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	337
+15	339	semidiametro	NOUN	noun	Case=Dat|Gender=Neut|Number=Sing	semidiametrus	obl	337
+15	340	circuli	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	circulus	nmod	339
+15	341	;	PUNCT	punc		;	punct	333
+15	342	quia	SCONJ	conjunction		quia	mark	345
+15	343	angulus	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	angulus	nsubj	345
+15	344	A	ADP	preposition		Ab	case	345
+15	345	aequalis	ADJ	adjective	Case=Nom|Gender=Masc|Number=Sing	aequalis	advcl	354
+15	346	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	345
+15	347	angulo	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	angulo	nmod	345
+15	348	DGH	NOUN	NOUN		DGH	flat	347
+15	349	,	PUNCT	punc		,	punct	345
+15	350	ideo	ADV	adverb		ideo	advmod	354
+15	351	erit	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	sum	cop	354
+15	352	linea	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	linea	nsubj	354
+15	353	DH	NOUN	pronoun		DH	nmod	352
+15	354	aequalis	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	aequalis	ROOT	354
+15	355	lineae	NOUN	noun	Case=Dat|Gender=Fem|Number=Sing	linea	nmod	354
+15	356	DE	ADP	preposition		DE	dep	354
+15	357	.	PUNCT	punc		.	punct	354
+15	358	Et	CCONJ	conjunction		et	cc	359
+15	359	dico	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	dico	ROOT	359
+15	360	quod	SCONJ	conjunction		quod	mark	362
+15	361	EC	PRON	pronoun	Case=Nom|Gender=Fem|Number=Sing	EC	nsubj:pass	362
+15	362	diuiditur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	diuido	ccomp	359
+15	363	media	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	medius	amod	366
+15	364	et	CCONJ	conjunction		et	cc	365
+15	365	extrema	ADJ	adjective	Case=Abl|Gender=Fem|Number=Sing	extremus	conj	363
+15	366	proportione	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	proportio	obl	362
+15	367	in	ADP	preposition		in	case	368
+15	368	D	NOUN	NOUN		Decimus	obl	362
+15	369	,	PUNCT	punc		,	punct	372
+15	370	et	CCONJ	conjunction		et	cc	372
+15	371	maius	ADJ	adjective	Case=Nom|Gender=Neut|Number=Sing	magnus	amod	372
+15	372	segmentum	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	segmentum	conj	362
+15	373	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	372
+15	374	DE	ADP	preposition		DE	dep	362
+15	375	;	PUNCT	punc		;	punct	359
+15	376	et	CCONJ	conjunction		et	cc	377
+15	377	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	ROOT	377
+15	378	,	PUNCT	punc		,	punct	382
+15	379	quia	SCONJ	conjunction		quia	mark	382
+15	380	ED	NOUN	verb		ED	nsubj	382
+15	381	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	382
+15	382	chorda	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	chorda	advcl	377
+15	383	hexagoni	NOUN	noun	Case=Gen|Gender=Masc|Number=Sing	hexagonus	nmod	382
+15	384	et	CCONJ	conjunction		et	cc	385
+15	385	DC	NUM	number		DC	conj	383
+15	386	decagoni	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	decagonum	nmod	385
+15	387	,	PUNCT	punc		,	punct	391
+15	388	et	CCONJ	conjunction		et	cc	391
+15	389	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:pass	391
+15	390	iam	ADV	adverb		iam	advmod:emph	391
+15	391	demonstratum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	demonstro	conj	377
+15	392	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	391
+15	393	in	ADP	preposition		in	case	394
+15	394	libro	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	liber	obl	391
+15	395	Elementorum	NOUN	noun	Case=Gen|Gender=Neut|Number=Plur	elementum	nmod	394
+15	396	.	PUNCT	punc		.	punct	377
+15	397	Et	CCONJ	conjunction		et	cc	401
+15	398	hoc	DET	adjective	Case=Nom|Gender=Neut|Number=Sing	hic	nsubj:outer	401
+15	399	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	401
+15	400	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	obj	401
+15	401	noluimus	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	nolo	ROOT	401
+15	402	.	PUNCT	punc		.	punct	401
